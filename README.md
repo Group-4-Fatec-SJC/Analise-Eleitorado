@@ -9,7 +9,7 @@
 
 ## Conteúdo
 1. Apresentação do Projeto
-2. Obejtivo do Projeto
+2. Objtivo do Projeto
 3. Conteúdo
 4. Sprints
 5. Tecnologias Usadas
