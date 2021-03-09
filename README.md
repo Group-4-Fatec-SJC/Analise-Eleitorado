@@ -12,9 +12,10 @@
 2. Objtivo do Projeto
 3. Conteúdo
 4. Sprints
-5. Tecnologias Usadas
-6. Funções dos Integrantes
-7. Wireframes
+5. Backlog
+6. Tecnologias Usadas
+7. Funções dos Integrantes
+8. Wireframes
 
 ## Sprints
 
