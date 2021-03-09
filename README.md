@@ -40,13 +40,13 @@
 
 Menbros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Fábio Moraes                   | Scrum Master   |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Bruno Pisciotta                | Desenvolvedor  |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Gustavo Leandro dos Santos     | Desenvolvedor  |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Lucas Midoes                   | Desenvolvedor  |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Vittor Hugo Santos Courbassier | Desenvolvedor  |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Pablo Cardoso                  | Testes         |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
-Ivo Nelson                     | Ux/Ui          |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)  |
+Fábio Moraes                   | Scrum Master   |  [GitHub](https://github.com/FabioMoraesDev)  | [Linkedin](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)   |
+Bruno Pisciotta                | Desenvolvedor  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)        |
+Gustavo Leandro dos Santos     | Desenvolvedor  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.google.com)                                                |
+Lucas Midoes                   | Desenvolvedor  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Vittor Hugo Santos Courbassier | Desenvolvedor  |  [GitHub](https://github.com/VHcourbassier)  | [Linkedin](https://www.linkedin.com/in/vittor-hugo-courbassier-09b1bb170/)    |
+Pablo Cardoso                  | Ux/Ui          |  [GitHub](https://github.com/pablocardosoalves)  | [Linkedin](https://www.linkedin.com/in/pablo-cardoso-a41715193/)          |
+Ivo Nelson                     | Testes         |  [GitHub](https://www.google.com)  | [Linkedin](https://www.google.com)                                                      |
 
 
 ## Vídeo
