@@ -1,7 +1,7 @@
 # Software de Análise do Eleitorado
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
-![alt text](http://url/to/img.png)
+![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 
 ## Obejetivo do Projeto
 
