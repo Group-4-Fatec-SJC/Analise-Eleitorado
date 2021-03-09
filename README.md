@@ -16,6 +16,14 @@
 6. Funções dos Integrantes
 7. Wireframes
 
+## Sprints
+
+* 08/03/2021 a 28/03/2021 - Primeira Sprint 
+* 08/03/2021 a 28/03/2021 - Segunda Sprint
+* 08/03/2021 a 08/03/2021 - Terceira Sprint
+* 08/03/2021 a 08/03/2021 - Quarta Sprint
+* 08/03/2021 a 08/03/2021 - Apresentação do Perojeto
+
 
 
 
