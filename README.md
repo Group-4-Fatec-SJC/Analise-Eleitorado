@@ -41,6 +41,10 @@ Vittor Hugo Santos Courbassier | Desenvolvedor  |   |   |
 Pablo Cardoso                  | Testes         |   |   |
 Ivo Nelson                     | Ux/Ui          |   |   |
 
+## Wireframe
+
+### Link do Wireframe do Projeto:
+
 
 
 
