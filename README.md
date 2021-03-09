@@ -32,11 +32,14 @@
 ## Funções
 
 Menbros   | Função  | GitHub  | Linkedin |
---------- --------- | ---------  | ---------  | --------- |
-Exemplo 1 | R$ 10   |  |  |
-Exemplo 2 | R$ 8    |  |  |
-Exemplo 3 | R$ 7    |  |  |
-Exemplo 4 | R$ 8    |  |  |
+--------- | ---------  | ---------  | --------- |
+Fábio Moraes                   | Scrum Master   |   |   |
+Bruno Pisciotta                | Desenvolvedor  |   |   |
+Gustavo Leandro dos Santos     | Desenvolvedor  |   |   |
+Lucas Midoes                   | Desenvolvedor  |   |   |
+Vittor Hugo Santos Courbassier | Desenvolvedor  |   |   |
+Pablo Cardoso                  | Testes         |   |   |
+Ivo Nelson                     | Ux/Ui          |   |   |
 
 
 
