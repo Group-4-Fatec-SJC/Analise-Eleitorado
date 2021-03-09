@@ -24,6 +24,11 @@
 * 08/03/2021 a 08/03/2021 - Quarta Sprint
 * 08/03/2021 a 08/03/2021 - Apresentação do Perojeto
 
+## Tecnologias Usadas
+ 
+### FRONT-END
+### BACK-END
+
 
 
 
