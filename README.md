@@ -32,8 +32,8 @@
 
 ## Tecnologias Usadas
  
-### FRONT-END
-### BACK-END
+### FRONT-END:
+### BACK-END:
 
 ## Funções
 
