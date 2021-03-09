@@ -40,13 +40,13 @@
 
 Menbros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Fábio Moraes                   | Scrum Master   |   |   |
-Bruno Pisciotta                | Desenvolvedor  |   |   |
-Gustavo Leandro dos Santos     | Desenvolvedor  |   |   |
-Lucas Midoes                   | Desenvolvedor  |   |   |
-Vittor Hugo Santos Courbassier | Desenvolvedor  |   |   |
-Pablo Cardoso                  | Testes         |   |   |
-Ivo Nelson                     | Ux/Ui          |   |   |
+Fábio Moraes                   | Scrum Master   |  [GitHub](https://www.google.com)  |   |
+Bruno Pisciotta                | Desenvolvedor  |  [GitHub](https://www.google.com)  |   |
+Gustavo Leandro dos Santos     | Desenvolvedor  |  [GitHub](https://www.google.com)  |   |
+Lucas Midoes                   | Desenvolvedor  |  [GitHub](https://www.google.com)  |   |
+Vittor Hugo Santos Courbassier | Desenvolvedor  |  [GitHub](https://www.google.com)  |   |
+Pablo Cardoso                  | Testes         |  [GitHub](https://www.google.com)  |   |
+Ivo Nelson                     | Ux/Ui          |  [GitHub](https://www.google.com)  |   |
 
 
 ## Vídeo
