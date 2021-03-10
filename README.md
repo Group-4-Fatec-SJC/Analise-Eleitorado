@@ -32,9 +32,8 @@
 ### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/34817f1f8735258fc706147b68811275bd6caa30/assets/backlog3.PNG)
 
 ## Tecnologias Usadas
- 
-### FRONT-END:
-### BACK-END:
+### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
+
 
 ## Funções
 
