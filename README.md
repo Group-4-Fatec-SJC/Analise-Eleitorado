@@ -29,7 +29,7 @@
 
 ### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
 ### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
-### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/34817f1f8735258fc706147b68811275bd6caa30/assets/backlog3.PNG)
+### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
 
 ## Tecnologias Usadas
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
