@@ -15,7 +15,8 @@
 5. Backlog
 6. Tecnologias Usadas
 7. Funções dos Integrantes
-8. Wireframes
+8. Vídeo de Apresentação
+9. Wireframes
 
 ## Sprints
 
