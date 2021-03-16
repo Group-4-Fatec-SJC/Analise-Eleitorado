@@ -26,7 +26,7 @@
 * 08/03/2021 a 08/03/2021 - Quarta Sprint
 * 08/03/2021 a 08/03/2021 - Apresentação do Projeto
 
-## Backlog
+## Backlog do Produto
 
 ### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
 ### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
