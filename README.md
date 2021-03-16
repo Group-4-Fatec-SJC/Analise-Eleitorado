@@ -40,11 +40,15 @@
 
 Menbros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Fábio Moraes                   | Scrum Master   |  [GitHub](https://github.com/FabioMoraesDev)  | [Linkedin](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)   |
-Bruno Pisciotta                | Desenvolvedor  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | Desenvolvedor  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
-Vittor Hugo Santos Courbassier | Desenvolvedor  |  [GitHub](https://github.com/VHcourbassier)  | [Linkedin](https://www.linkedin.com/in/vittor-hugo-courbassier-09b1bb170/)    |
-Lucas Midoes                   | Ux/Ui - Testes  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Daniel Luciano dos Santos Filho                   | Scrum Master   |  [GitHub](https://github.com/daniellsfilhov)  | [Linkedin](linkedin)   |
+Bruno Pisciotta                | Desenvolvedor Front-End  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
+Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
+Gabriel H. Shishido | Desenvolvedor Back-End  |  [GitHub](https://github.com/Gabriel-Shishidor)  | [Linkedin](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
+Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](https://github.com/GuilhermeCarissio777r)  | [Linkedin](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
+Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+
+
+GUILHERME BERNARDO GUARIGLIA CARISSIO
 
 
 
