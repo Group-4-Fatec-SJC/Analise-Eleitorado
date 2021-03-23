@@ -20,7 +20,7 @@
 
 ## Sprints
 
-* 08/03/2021 a 28/03/2021 - Primeira Sprint (https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)
+* 08/03/2021 a 28/03/2021 - Primeira Sprint <https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md>
 * 08/03/2021 a 28/03/2021 - Segunda Sprint
 * 08/03/2021 a 08/03/2021 - Terceira Sprint
 * 08/03/2021 a 08/03/2021 - Quarta Sprint
