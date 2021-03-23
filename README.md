@@ -1,4 +1,4 @@
-# 1 Sprint
+# 1 Sprint - Software de Análise do Eleitorado
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
