@@ -21,10 +21,10 @@
 ## Sprints
 
 * [08/03/2021 a 28/03/2021 - Primeira Sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)
-* 08/03/2021 a 28/03/2021 - Segunda Sprint
-* 08/03/2021 a 08/03/2021 - Terceira Sprint
-* 08/03/2021 a 08/03/2021 - Quarta Sprint
-* 08/03/2021 a 08/03/2021 - Apresentação do Projeto
+* 29/03/2021 a 18/04/2021 - Segunda Sprint
+* 26/04/2021 a 16/05/2021 - Terceira Sprint
+* 17/05/2021 a 05/06/2021 - Quarta Sprint
+* 07/06/2021 a 11/06/2021 - Apresentação do Projeto
 
 ## Backlog do Produto
 
