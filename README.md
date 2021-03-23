@@ -10,7 +10,7 @@
 ## Conteúdo
 1. Apresentação do Projeto
 2. Objetivo do Projeto
-3. Conteúdo
+3. Estrutura do GitHub
 4. Sprints
 5. Backlog
 6. Tecnologias Usadas
