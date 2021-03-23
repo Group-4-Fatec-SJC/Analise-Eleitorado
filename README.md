@@ -21,7 +21,7 @@
 9. Wireframes
 
 
-## Backlog da Sprint
+## Backlog da 1 Sprint
 
 ### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
 ### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
