@@ -19,7 +19,7 @@
 
 #### Realizado a primeira entrega do projeto do software de análise do eleitorado, para buscas rápidas e eficazes de dados das eleições brasileiras.
 
-## DATA DE ENTREGA: 08/03/2021 a 28/03/2021
+## Data de Entrega: 08/03/2021 a 28/03/2021
 
 
 
