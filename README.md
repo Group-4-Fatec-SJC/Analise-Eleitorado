@@ -3,11 +3,11 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-## Objetivo do Projeto
+## Objetivo da Sprint
 
-#### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
+#### Realizado a primeira entrega do projeto do software de análise do eleitorado, para buscas rápidas e eficazes de dados das eleições brasileiras.
 
-## DATA DE ENTREGA: 08/03/2021 a 28/03/2021 - Primeira Sprint 
+## DATA DE ENTREGA: 08/03/2021 a 28/03/2021
 
 ## Conteúdo
 1. Apresentação da Sprint
