@@ -4,7 +4,7 @@
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
 ## Conteúdo
-1. Apresentação da Sprint
+1. Conteúdo
 2. Objetivo da Sprint
 3. Data de Entrega
 5. Backlog da Sprint
