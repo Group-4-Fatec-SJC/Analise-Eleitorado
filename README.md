@@ -23,16 +23,16 @@
 
 ## Backlog da 1 Sprint
 
-### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
-### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
-### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
+### ![1 BACKLOG](link aqui)
+### ![2 BACKLOG](link aqui)
+### ![3 BACKLOG](link aqui)
 
 
 ## Lista de Requisitos
 
 ## Wireframes
 
-Link do Wireframes: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
+Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 ## Regras de Negócio
 
