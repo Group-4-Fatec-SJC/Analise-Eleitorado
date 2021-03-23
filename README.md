@@ -3,17 +3,10 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-## Objetivo da Sprint
-
-#### Realizado a primeira entrega do projeto do software de análise do eleitorado, para buscas rápidas e eficazes de dados das eleições brasileiras.
-
-## DATA DE ENTREGA: 08/03/2021 a 28/03/2021
-
 ## Conteúdo
 1. Apresentação da Sprint
 2. Objetivo da Sprint
 3. Data de Entrega
-4. Conteúdo
 5. Backlog da Sprint
 6. Lista de Requisitos
 7. Wireframes
@@ -21,6 +14,14 @@
 10. Tecnologias Usadas
 11. Funções dos Integrantes
 12. Vídeo de Apresentação da Sprint
+
+## Objetivo da Sprint
+
+#### Realizado a primeira entrega do projeto do software de análise do eleitorado, para buscas rápidas e eficazes de dados das eleições brasileiras.
+
+## DATA DE ENTREGA: 08/03/2021 a 28/03/2021
+
+
 
 
 ## Backlog da 1 Sprint
