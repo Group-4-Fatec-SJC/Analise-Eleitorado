@@ -27,6 +27,17 @@
 ### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
 ### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
 
+
+## Lista de Requisitos
+
+## Wireframes
+
+Link do Wireframes: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
+
+## Regras de Negócio
+
+
+
 ## Tecnologias Usadas
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
 
@@ -50,10 +61,6 @@ Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.
 ## Vídeo
 
 #### Vídeo do Projeto:
-
-## Wireframe
-
-#### Link do Wireframe do Projeto: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 
 
