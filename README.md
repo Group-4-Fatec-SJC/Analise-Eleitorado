@@ -11,14 +11,16 @@
 
 ## Conteúdo
 1. Apresentação da Sprint
-2. Objetivo do Projeto
+2. Objetivo da Sprint
 3. Data de Entrega
 4. Conteúdo
 5. Backlog da Sprint
-6. Tecnologias Usadas
-7. Funções dos Integrantes
-8. Vídeo de Apresentação da Sprint
-9. Wireframes
+6. Lista de Requisitos
+7. Wireframes
+8. Regras de Negócio
+10. Tecnologias Usadas
+11. Funções dos Integrantes
+12. Vídeo de Apresentação da Sprint
 
 
 ## Backlog da 1 Sprint
