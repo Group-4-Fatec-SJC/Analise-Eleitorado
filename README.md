@@ -23,9 +23,9 @@
 
 ## Backlog da 1 Sprint
 
-### ![1 BACKLOG](link aqui)
-### ![2 BACKLOG](link aqui)
-### ![3 BACKLOG](link aqui)
+### ![1 PARTE](link aqui)
+### ![2 PARTE](link aqui)
+### ![3 PARTE](link aqui)
 
 
 ## Lista de Requisitos
