@@ -7,7 +7,7 @@
 
 ## Estruturação do Conteúdo
 
-1. [Nosso Objetivo](<a href="#Nosso_Objetivo">)
+1. <a href="#Nosso_Objetivo">[Nosso Objetivo](</a>
 2. O que é o Programoid?
 3. Sprints
 4. Backlog do Produto
