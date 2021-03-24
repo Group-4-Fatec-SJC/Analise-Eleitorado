@@ -7,7 +7,7 @@
 
 ## Estruturação do Conteúdo
 
-1. [Nosso Objetivo](Nosso_Objetivo)
+1. [Nosso Objetivo](<a href="#Nosso_Objetivo">)
 2. O que é o Programoid?
 3. Sprints
 4. Backlog do Produto
@@ -17,7 +17,7 @@
 8. Wireframe Completo
 
 
-## Nosso Objetivo(Nosso_Objetivo)
+## <a name="Nosso_Objetivo">Nosso Objetivo</a>
 
 #### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
 
