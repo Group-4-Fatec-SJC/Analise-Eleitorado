@@ -57,12 +57,12 @@ Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](link 01)  
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Daniel Luciano dos Santos Filho                   | Scrum Master   |  [GitHub](https://github.com/daniellsfilho)  | [Linkedin](linkedin)   |
-Bruno Pisciotta                | Desenvolvedor Front-End  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
-Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [GitHub](https://github.com/Gabriel-Shishido)  | [Linkedin](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
-Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](https://github.com/GuilhermeCarissio777)  | [Linkedin](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
-João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [GitHub](https://github.com/jvrb)  | [Linkedin](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
+Daniel Luciano dos Santos Filho                   | Scrum Master   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
+Bruno Pisciotta                | Desenvolvedor Front-End  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
+Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
+Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [Visualizar](https://github.com/Gabriel-Shishido)  | [Visualizar](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
+Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
+João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
 Lucas Midoes                   | Testes de Software  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
 
 
