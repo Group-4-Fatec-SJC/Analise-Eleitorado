@@ -32,7 +32,7 @@
 
 Sprints   | Descrições  | Datas  | Links |
 :---------: | :---------:  | :---------:  | :---------: |
-Sprint 1  | Descrição 1  |  08/03/2021 a 28/03/2021  | [Visualizar](link 01)   |
+Sprint 1  | Entrega dos wireframes, regras de negócio e lista de requisitos  |  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 Sprint 2  | Descrição 2  |  29/03/2021 a 18/04/2021  | [Visualizar](link 01)   |
 Sprint 3  | Descrição 3  |  17/05/2021 a 05/06/2021  | [Visualizar](link 01)   |
 Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](link 01)   |
