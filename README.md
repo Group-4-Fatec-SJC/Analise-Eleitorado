@@ -62,13 +62,11 @@ Lucas Midoes                   | Testes de Software  |  [Visualizar](https://git
 
 
 
-## Vídeo
+## [Vídeo do Projeto](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)
 
-#### Vídeo do Projeto:
+## [Wireframe Completo](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
 
-## Wireframe
 
-#### Link do Wireframe do Projeto: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 
 
