@@ -29,7 +29,8 @@
 
 
 ## <a name="Sprints">Oque foi entregue na 1 Sprint</a>
-https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/primeira%20sprint.PNG
+
+![1 sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/primeira%20sprint.PNG)
 
 
 ## <a name="Backlog_do_Produto">Backlog da 1 Sprint</a>
