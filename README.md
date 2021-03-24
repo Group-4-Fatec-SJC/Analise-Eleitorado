@@ -8,13 +8,13 @@
 ## Estruturação do Conteúdo
 
 <a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
-<a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a>
-<a href="#Sprints">3. Sprints</a>
-<a href="#Backlog_do_Produto">4. Backlog do Produto</a>
-<a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a>
-<a href="#Integrantes_da_Equipe">6. Integrantes da Equipe</a>
-<a href="#Video_do_Projeto">7. Vídeo do Projeto</a>
-<a href="#Wireframe_Completo">8. Wireframe Completo</a>
+<a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
+<a href="#Sprints">3. Sprints</a><br>
+<a href="#Backlog_do_Produto">4. Backlog do Produto</a><br>
+<a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
+<a href="#Integrantes_da_Equipe">6. Integrantes da Equipe</a><br>
+<a href="#Video_do_Projeto">7. Vídeo do Projeto</a><br>
+<a href="#Wireframe_Completo">8. Wireframe Completo</a><br>
 
 
 ## <a name="Nosso_Objetivo">Nosso Objetivo</a>
