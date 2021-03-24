@@ -3,7 +3,7 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-### Seja bem-vindo ao repositório do RoadTracker!
+### Seja bem-vindo ao repositório do Programoid!
 
 ## Nosso Objetivo
 
@@ -11,7 +11,7 @@
 
 ## O que é o Programoid?
 
-#### Programoid é uma equipe de desenvolvedores que busca 
+#### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
 
 ## Conteúdo
 1. Apresentação do Projeto
