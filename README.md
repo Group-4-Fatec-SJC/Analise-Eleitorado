@@ -14,6 +14,7 @@
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
 <a href="#Lista_de_Requisitos">6. Lista de Requisitos</a><br>
 <a href="#Wireframes">7. Wireframes</a><br>
+<a href="#Regras_de_Negocio">7. Regras de Negocio</a><br>
 <a href="#Integrantes_de_Grupo">8. Integrantes de Grupo</a><br>
 
 ## <a name="Nosso_Objetivo">Nosso Objetivo</a>
@@ -48,7 +49,7 @@
 
 Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
-## Regras de Negócio
+## <a name="Regras_de_Negocio">Regras de Negócio</a>
 
 ## <a name="Integrantes_de_Grupo">Integrantes de Grupo</a>
 
@@ -65,10 +66,6 @@ Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.
 
 
 
-
-## Vídeo
-
-#### Vídeo do Projeto:
 
 
 
