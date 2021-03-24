@@ -5,6 +5,19 @@
 
 ### Seja bem-vindo ao repositório do Programoid!
 
+## Estruturação do Conteúdo
+
+1. Nosso Objetivo
+2. O que é o Programoid?
+3. Sprints
+4. Backlog do Produto
+5. Tecnologias Usadas
+6. Integrantes da Equipe
+7. Vídeo do Projeto
+8. Wireframe Completo
+
+
+
 ## Nosso Objetivo
 
 #### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
@@ -12,17 +25,6 @@
 ## O que é o Programoid?
 
 #### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
-
-## Conteúdo
-1. Apresentação do Projeto
-2. Objetivo do Projeto
-3. Estrutura do GitHub
-4. Sprints
-5. Backlog
-6. Tecnologias Usadas
-7. Funções dos Integrantes
-8. Vídeo de Apresentação
-9. Wireframes
 
 
 ## Sprints
