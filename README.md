@@ -12,8 +12,8 @@
 <a href="#Sprints">3. Sprints</a><br>
 <a href="#Backlog_do_Produto">4. Backlog da Sprint</a><br>
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
-<a href="#Integrantes_da_Equipe">6. Integrantes da Equipe</a><br>
-<a href="#Video_do_Projeto">7. Vídeo do Projeto</a><br>
+<a href="#Lista_de_Requisitos">6. Integrantes da Equipe</a><br>
+<a href="#Wireframes">7. Vídeo do Projeto</a><br>
 <a href="#Wireframe_Completo">8. Wireframe Completo</a><br>
 
 ## <a name="Nosso_Objetivo">Nosso Objetivo</a>
@@ -42,9 +42,9 @@
 ## <a name="Tecnologias_Usadas">Tecnologias Usadas</a>
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
-## Lista de Requisitos
+## <a name="Lista_de_Requisitos">Lista de Requisitos</a>
 
-## Wireframes
+## <a name="Wireframes">Wireframes</a>
 
 Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
