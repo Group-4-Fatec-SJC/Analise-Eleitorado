@@ -63,7 +63,7 @@ Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [GitHub](https://gi
 Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [GitHub](https://github.com/Gabriel-Shishido)  | [Linkedin](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
 Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](https://github.com/GuilhermeCarissio777)  | [Linkedin](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
 João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [GitHub](https://github.com/jvrb)  | [Linkedin](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
-Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Lucas Midoes                   | Testes de Software  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
 
 
 
