@@ -1,30 +1,37 @@
-# 1 Sprint - Software de Análise do Eleitorado
+# 1 Sprint
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-## Conteúdo
-1. Conteúdo
-2. Objetivo da Sprint
-3. Data de Entrega
-5. Backlog da Sprint
-6. Lista de Requisitos
-7. Wireframes
-8. Regras de Negócio
-10. Tecnologias Usadas
-11. Funções dos Integrantes
-12. Vídeo de Apresentação da Sprint
+### Seja bem-vindo a 1 sprint do Programoid!
 
-## Objetivo da Sprint
+## Estruturação do Conteúdo
 
-#### Realizado a primeira entrega do projeto do software de análise do eleitorado, para buscas rápidas e eficazes de dados das eleições brasileiras.
+<a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
+<a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
+<a href="#Sprints">3. Sprints</a><br>
+<a href="#Backlog_do_Produto">4. Backlog da Sprint</a><br>
+<a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
+<a href="#Integrantes_da_Equipe">6. Integrantes da Equipe</a><br>
+<a href="#Video_do_Projeto">7. Vídeo do Projeto</a><br>
+<a href="#Wireframe_Completo">8. Wireframe Completo</a><br>
+
+## <a name="Nosso_Objetivo">Nosso Objetivo</a>
+
+#### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
+
+## <a name="O_que_é_o_Programoid">O que é o Programoid?</a>
+
+#### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
+
 
 ## Data de Entrega: 08/03/2021 a 28/03/2021
 
 
+## <a name="Sprints">Oque foi entregue</a>
 
 
-## Backlog da 1 Sprint
+## <a name="Backlog_do_Produto">Backlog da 1 Sprint</a>
 
 ### ![1 PARTE](link aqui)
 ### ![2 PARTE](link aqui)
@@ -41,7 +48,7 @@ Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API
 
 
 
-## Tecnologias Usadas
+## <a name="Tecnologias_Usadas">Tecnologias Usadas</a>
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
 
