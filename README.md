@@ -12,9 +12,9 @@
 <a href="#Sprints">3. Sprints</a><br>
 <a href="#Backlog_do_Produto">4. Backlog da Sprint</a><br>
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
-<a href="#Lista_de_Requisitos">6. Integrantes da Equipe</a><br>
-<a href="#Wireframes">7. Vídeo do Projeto</a><br>
-<a href="#Wireframe_Completo">8. Wireframe Completo</a><br>
+<a href="#Lista_de_Requisitos">6. Lista de Requisitos</a><br>
+<a href="#Wireframes">7. Wireframes</a><br>
+<a href="#Integrantes_de_Grupo">8. Integrantes de Grupo</a><br>
 
 ## <a name="Nosso_Objetivo">Nosso Objetivo</a>
 
@@ -50,7 +50,7 @@ Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API
 
 ## Regras de Negócio
 
-## Funções
+## <a name="Integrantes_de_Grupo">Integrantes de Grupo</a>
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
