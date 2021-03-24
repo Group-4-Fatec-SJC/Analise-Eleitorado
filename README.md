@@ -39,6 +39,8 @@
 ### ![2 PARTE](link aqui)
 ### ![3 PARTE](link aqui)
 
+## <a name="Tecnologias_Usadas">Tecnologias Usadas</a>
+### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
 ## Lista de Requisitos
 
@@ -47,12 +49,6 @@
 Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 ## Regras de Negócio
-
-
-
-## <a name="Tecnologias_Usadas">Tecnologias Usadas</a>
-### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
-
 
 ## Funções
 
