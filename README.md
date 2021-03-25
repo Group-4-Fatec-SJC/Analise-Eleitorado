@@ -1,7 +1,6 @@
 <h1 text align="center"> &#9194; Programoid &#9193;</h1>
 
-<center>![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)</center>
-
+![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_300x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
 ### *Seja bem-vindo ao Software de Análise do Eleitorado*
