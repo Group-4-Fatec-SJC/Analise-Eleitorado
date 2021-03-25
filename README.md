@@ -1,7 +1,6 @@
 <h1 text align="center"> &#9194; Programoid &#9193;</h1>
 
-<div style="text-align:center"><img src="https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png" /></div>
-<div style="text-align:center"><https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png" /></div>
+
 
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
