@@ -36,9 +36,9 @@
 
 ## <a name="Backlog_do_Produto">Backlog da 1 Sprint</a>
 
-### ![1 PARTE](link aqui)
-### ![2 PARTE](link aqui)
-### ![3 PARTE](link aqui)
+### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/lista%20de%20requisitos.PNG)
+### ![2 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/WIREFRAMES.PNG)
+### ![3 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/regras%20de%20neg%C3%B3cios.PNG)
 
 ## <a name="Tecnologias_Usadas">Tecnologias Usadas</a>
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
