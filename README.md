@@ -1,4 +1,4 @@
-<h1 text align="center"> &#23EE Programoid:computer:</h1>
+<h1 text align="center"> &#23EE; Programoid:computer:</h1>
 
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
