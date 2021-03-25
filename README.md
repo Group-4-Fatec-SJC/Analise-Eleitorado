@@ -1,4 +1,4 @@
-<p style="text-align: center;">Centered text</p>
+## <p style="text-align: center;">Centered text</p>
 
 # 1 Sprint
 
