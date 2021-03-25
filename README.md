@@ -3,9 +3,9 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-### *Seja bem-vindo ao Software de Análise do Eleitorado!
+### *Seja bem-vindo ao Software de Análise do Eleitorado!*
 
-## *Estruturação do Conteúdo
+## *Estruturação do Conteúdo*
 
 <a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
 <a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
@@ -17,11 +17,11 @@
 <a href="#Regras_de_Negocio">7. Regras de Negocio</a><br>
 <a href="#Integrantes_de_Grupo">8. Integrantes de Grupo</a><br>
 
-## <a name="Nosso_Objetivo">*Nosso Objetivo</a>
+## <a name="Nosso_Objetivo">*Nosso Objetivo*</a>
 
 #### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
 
-## <a name="O_que_é_o_Programoid">*O que é o Programoid?</a>
+## <a name="O_que_é_o_Programoid">*O que é o Programoid?*</a>
 
 #### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
 
