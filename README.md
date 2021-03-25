@@ -51,7 +51,7 @@ Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](https://gi
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Daniel Luciano dos Santos Filho                   | Scrum Master   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
+Daniel Luciano dos Santos Filho                   | *Scrum Master*   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
 Bruno Pisciotta                | Desenvolvedor Front-End  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
 Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
 Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [Visualizar](https://github.com/Gabriel-Shishido)  | [Visualizar](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
