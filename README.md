@@ -30,7 +30,7 @@
 
 Sprints   | Descrições  | Datas  | Links |
 :---------: | :-----:  | :------------:  | :---------: |
-Sprint 1  | <div style="text-align: right">Entrega dos Wireframes do Projeto, Regras de negócio e Lista de Requisito|  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md </div>)   |
+Sprint 1  | <div style="text-align: justify">Entrega dos Wireframes do Projeto, Regras de negócio e Lista de Requisito|  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md </div>)   |
 Sprint 2  | Descrição 2  |  29/03/2021 a 18/04/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 Sprint 3  | Descrição 3  |  17/05/2021 a 05/06/2021  |[Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
