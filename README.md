@@ -30,7 +30,7 @@
 #### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
 
 
-## <a name="Sprints">*Sprints*</a>
+## <a name="Sprints">*Sprints*&#128198;</a>
 
 Sprints   | Descrições  | Datas  | Links |
 :---------: | :-----:  | :------------:  | :---------: |
