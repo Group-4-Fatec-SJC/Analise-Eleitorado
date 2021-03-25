@@ -34,7 +34,7 @@
 
 Sprints   | Descrições  | Datas  | Links |
 :---------: | :-----:  | :------------:  | :---------: |
-Sprint 1  | * Wireframes e Protótipos Navegáveis* |  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md )   |
+Sprint 1  | *Wireframes e Protótipos Navegáveis* |  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md )   |
 Sprint 2  | *Descrição Sprint 2*  |  29/03/2021 a 18/04/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 Sprint 3  | *Descrição Sprint 3*  |  17/05/2021 a 05/06/2021  |[Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
