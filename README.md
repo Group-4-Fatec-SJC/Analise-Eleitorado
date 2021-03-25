@@ -1,5 +1,4 @@
-<h1 text align="center">Grupo 3 :bar_chart::computer:</h1>
-# *Programoid*
+<h1 text align="center"> :bar_chart:Programoid:computer:</h1>
 
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
