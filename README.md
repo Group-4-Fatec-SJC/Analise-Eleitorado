@@ -1,3 +1,5 @@
+<p style="text-align: center;">Centered text</p>
+
 # 1 Sprint
 
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
