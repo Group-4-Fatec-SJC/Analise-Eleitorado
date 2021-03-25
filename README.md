@@ -41,7 +41,7 @@ Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](h
 
 
 
-## <a name="Backlog_do_Produto">*Backlog do Produto*</a>
+## <a name="Backlog_do_Produto">*Backlog do Produto*&#128203;</a>
 
 ### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
 ### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
