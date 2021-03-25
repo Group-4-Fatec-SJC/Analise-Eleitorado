@@ -21,7 +21,7 @@
 <a href="#Wireframe_Completo">9. Wireframe Completo</a><br>
 
 
-## <a name="Nosso_Objetivo">*Nosso Objetivo*</a>
+## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
 
 #### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
 
