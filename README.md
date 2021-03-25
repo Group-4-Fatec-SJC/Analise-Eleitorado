@@ -73,7 +73,7 @@ Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://g
 
 
 
-## <a name="Video_do_Projeto">[Vídeo do Projeto](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)</a>
+## <a name="Video_do_Projeto">[Vídeo do Projeto](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba) &#127910;</a>
 
 ## <a name="Wireframe_Completo">[Wireframe Completo](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)</a>
 
