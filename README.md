@@ -48,7 +48,7 @@ Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](h
 ### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
 
 
-## <a name="lista_requisitos">*Lista de Requisitos*</a>
+## <a name="lista_requisitos">*Lista de Requisitos*&#128196;</a>
 
 ### ![REQUSITOS FUNCIONAIS](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/FUNCIONAIS.PNG)
 ### ![REQUSITOS NÃO FUNCIONAIS](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/N%C3%83O%20FUNCIONAIS.PNG)
