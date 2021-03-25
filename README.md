@@ -30,10 +30,10 @@
 
 Sprints   | Descrições  | Datas  | Links |
 :---------: | :-----:  | :------------:  | :---------: |
-Sprint 1  | <p style='text-align: justify;'> Entrega dos Wireframes do Projeto, Regras de negócio e Lista de Requisito </p>|  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md )   |
-Sprint 2  | Descrição 2  |  29/03/2021 a 18/04/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
-Sprint 3  | Descrição 3  |  17/05/2021 a 05/06/2021  |[Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
-Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
+Sprint 1  | *Entrega dos Wireframes do Projeto, Regras de negócio e Lista de Requisito* |  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md )   |
+Sprint 2  | *Descrição Sprint 2*  |  29/03/2021 a 18/04/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
+Sprint 3  | *Descrição Sprint 3*  |  17/05/2021 a 05/06/2021  |[Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
+Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
 
 
 
@@ -52,12 +52,11 @@ Sprint 4  | Descrição 4  |  07/06/2021 a 11/06/2021  | [Visualizar](https://gi
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
 Daniel Luciano dos Santos Filho                   | *Scrum Master*   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
-Bruno Pisciotta                | Desenvolvedor Front-End  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
-Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [Visualizar](https://github.com/Gabriel-Shishido)  | [Visualizar](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
-Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
-João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
-Lucas Midoes                   | Testes de Software  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Bruno Pisciotta                | *Front-end developer*  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
+Gustavo Leandro dos Santos     | *Front-end developer*  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)       |
+Guilherme Bernardo Guariglia Carissio | *Back-end developer*  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
+João Vitor Rodrigues Braga | *Back-end developer*  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
+Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
 
 
 
