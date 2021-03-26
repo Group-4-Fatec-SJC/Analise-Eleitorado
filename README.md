@@ -3,7 +3,8 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-<h1 text align="center"> &#128230; Sprint 1 &#128230;</h1>
+
+<h3 text align="center"> Seja bem-vindo ao Software de Análise do Eleitorado </h3>
 
 ## *Estruturação do Conteúdo*
 
@@ -17,13 +18,14 @@
 <a href="#Regras_de_Negocio">7. Regras de Negocio</a><br>
 <a href="#Integrantes_de_Grupo">8. Integrantes de Grupo</a><br>
 
-## <a name="Nosso_Objetivo">*Nosso Objetivo*</a>
+## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
 
 #### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
 
-## <a name="O_que_é_o_Programoid">*O que é o Programoid?*</a>
+## <a name="O_que_é_o_Programoid">*O que é o Programoid?*&#128153;</a>
 
 #### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
+
 
 
 ## *Data de Entrega: 08/03/2021 a 28/03/2021
