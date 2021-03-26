@@ -34,7 +34,7 @@
 ![1 sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/1%20sprint.PNG)
 
 
-## <a name="Backlog_do_Produto"> *Backlog da Sprint* </a>
+## <a name="Backlog_do_Produto"> *Backlog da Sprint*&#128203; </a>
 
 ### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/wireframes.PNG)
 
