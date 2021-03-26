@@ -39,7 +39,7 @@
 ### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/wireframes.PNG)
 
 
-## <a name="Tecnologias_Usadas"> *Tecnologias Usadas* </a>
+## <a name="Tecnologias_Usadas"> *Tecnologias Usadas*&#9889; </a>
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
 
