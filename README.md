@@ -60,7 +60,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframes">*Wireframes* </a>
 
-### Burndown(https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/burndown.jpeg)
+### Para visualizar o wireframe completo,[Clique Aqui](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)
 
 
 
