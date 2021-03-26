@@ -60,7 +60,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframes">*Wireframes* </a>
 
-#### *Para visualizar o wireframe completo, [Clique Aqui]*(https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
+#### *Para visualizar o wireframe completo, [Clique Aqui](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
 
 
 
