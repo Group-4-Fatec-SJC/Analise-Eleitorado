@@ -36,7 +36,7 @@
 
 ## <a name="Backlog_do_Produto"> *Backlog da Sprint* </a>
 
-### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/lista%20de%20requisitos.PNG)
+### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/wireframes.PNG)
 
 
 ## <a name="Tecnologias_Usadas">*Tecnologias Usadas</a>
