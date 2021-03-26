@@ -43,9 +43,7 @@
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
 
-## <a name="Wireframes">*Wireframes* </a>
 
-Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 
 ## <a name="Integrantes_de_Grupo">*Integrantes de Grupo* </a>
@@ -60,6 +58,9 @@ Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](http
 João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [GitHub](https://github.com/jvrb)  | [Linkedin](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
 Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
 
+## <a name="Wireframes">*Wireframes* </a>
+
+Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 
 
