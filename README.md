@@ -28,7 +28,8 @@
 
 
 
-### *Data de Entrega: 08/03/2021 a 28/03/2021*
+<h3 text align="center"> Data de Entrega: 08/03/2021 a 28/03/2021 </h3>
+
 
 
 ## <a name="Sprints">*1 Sprint</a>
