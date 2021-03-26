@@ -6,7 +6,7 @@
 
 <h3 text align="center"> Seja bem-vindo ao Software de Análise do Eleitorado </h3>
 
-## *Estruturação do Conteúdo*
+## *Estruturação do Conteúdo*&#128193;
 
 <a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
 <a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
