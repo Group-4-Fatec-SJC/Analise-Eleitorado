@@ -13,10 +13,9 @@
 <a href="#Sprints">3. Sprint 1</a><br>
 <a href="#Backlog_do_Produto">4. Backlog da Sprint</a><br>
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
-<a href="#Lista_de_Requisitos">6. Lista de Requisitos</a><br>
+<a href="#Integrantes_de_Grupo">6. Integrantes de Grupo</a><br>
 <a href="#Wireframes">7. Wireframes</a><br>
-<a href="#Regras_de_Negocio">7. Regras de Negocio</a><br>
-<a href="#Integrantes_de_Grupo">8. Integrantes de Grupo</a><br>
+<a href="#burndown">8. Integrantes de Grupo</a><br>
 
 ## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
 
@@ -28,7 +27,7 @@
 
 
 
-## &#128197; *08/03/2021 a 28/03/2021* &#128197; 
+## <a name="Sprints"> &#128197; *08/03/2021 a 28/03/2021* &#128197; </a> 
 
 
 ![1 sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/1%20sprint.PNG)
@@ -66,7 +65,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 
 
-## <a name="Wireframes">*Burndown da Sprint*&#128200; </a>
+## <a name="burndown">*Burndown da Sprint*&#128200; </a>
 
 ### ![Burndown](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/burndown.jpeg)
 
