@@ -63,7 +63,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 
 
-## <a name="Wireframes">*Burndown da Sprint* </a>
+## <a name="Wireframes">*Burndown da Sprint*&#128200; </a>
 
 ### ![Burndown](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/burndown.jpeg)
 
