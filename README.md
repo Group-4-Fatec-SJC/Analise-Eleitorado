@@ -18,7 +18,7 @@
 <a href="#Tecnologias_Usadas">6. Tecnologias Usadas</a><br>
 <a href="#Integrantes_da_Equipe">7. Integrantes da Equipe</a><br>
 <a href="#Video_do_Projeto">8. Vídeo do Projeto</a><br>
-<a href="#Wireframe_Completo">9. Wireframe Completo</a><br>
+<a href="#Wireframe_Completo">9. Wireframe</a><br>
 
 
 ## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
