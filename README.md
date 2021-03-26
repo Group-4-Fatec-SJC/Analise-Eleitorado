@@ -59,6 +59,8 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframes">*Wireframes*&#128218; </a>
 
+### ![WIREFRAME](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF_WIREFRAME.gif)
+
 #### *Para visualizar o wireframe completo, [Clique Aqui](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
 
 
