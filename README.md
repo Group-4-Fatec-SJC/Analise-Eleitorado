@@ -28,28 +28,27 @@
 
 
 
-<h3 text align="center"> Data de Entrega: 08/03/2021 a 28/03/2021 </h3>
+<h3 text align="center"> *Data de Entrega: 08/03/2021 a 28/03/2021* </h3>
 
 
 ![1 sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/1%20sprint.PNG)
 
 
-## <a name="Backlog_do_Produto">*Backlog da 1 Sprint</a>
+## <a name="Backlog_do_Produto"> *Backlog da Sprint* </a>
 
 ### ![1 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/lista%20de%20requisitos.PNG)
-### ![2 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/WIREFRAMES.PNG)
-### ![3 PARTE](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/regras%20de%20neg%C3%B3cios.PNG)
+
 
 ## <a name="Tecnologias_Usadas">*Tecnologias Usadas</a>
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/Tecnologias%20Utilizadas%20c%C3%B3pia.png)
 
 
-## <a name="Wireframes">*Wireframes</a>
+## <a name="Wireframes">*Wireframes* </a>
 
 Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
 
 
-## <a name="Integrantes_de_Grupo">*Integrantes de Grupo</a>
+## <a name="Integrantes_de_Grupo">*Integrantes de Grupo* </a>
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
