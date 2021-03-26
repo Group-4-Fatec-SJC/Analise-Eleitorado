@@ -46,7 +46,7 @@
 
 
 
-## <a name="Integrantes_de_Grupo">*Integrantes de Grupo* </a>
+## <a name="Integrantes_de_Grupo">*Integrantes de Grupo*&#127808; </a>
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
@@ -60,7 +60,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframes">*Wireframes* </a>
 
-Link do Wireframe: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
+
 
 
 ## <a name="Wireframes">*Burndown da Sprint* </a>
