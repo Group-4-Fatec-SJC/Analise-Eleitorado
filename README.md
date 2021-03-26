@@ -78,7 +78,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframe_Completo"> *Wireframe*&#128218; </a>
 
-### ![WIREFRAME](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/wireframe.gif)
+### ![WIREFRAME](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF_WIREFRAME.gif)
 
 
 
