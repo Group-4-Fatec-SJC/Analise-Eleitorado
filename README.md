@@ -15,7 +15,7 @@
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
 <a href="#Integrantes_de_Grupo">6. Integrantes de Grupo</a><br>
 <a href="#Wireframes">7. Wireframes</a><br>
-<a href="#burndown">8. Integrantes de Grupo</a><br>
+<a href="#burndown">8. Burndown da 1 Sprint</a><br>
 
 ## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
 
