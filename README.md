@@ -6,7 +6,7 @@
 ![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
 ![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
 
-<h2 text align="center"> Seja bem-vindo ao Software de Análise do Eleitorado </h3>
+<h3 text align="center"> Seja bem-vindo ao Software de Análise do Eleitorado </h3>
 
 ## *Estruturação do Conteúdo*&#128193;
 
