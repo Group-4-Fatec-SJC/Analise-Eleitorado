@@ -58,7 +58,7 @@ João Vitor Rodrigues Braga | *Back-end developer*  |  [Visualizar](https://gith
 Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
 Fabio                   | *Back-end developer*  |  [Visualizar](https://github.com/FabioMoraesDev)  | [Visualizar](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)
 
-## <a name="Wireframes">*Wireframes* </a>
+## <a name="Wireframes">*Wireframes*&#128218; </a>
 
 #### *Para visualizar o wireframe completo, [Clique Aqui](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
 
