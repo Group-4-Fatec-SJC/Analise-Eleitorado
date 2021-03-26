@@ -28,7 +28,7 @@
 
 
 
-<h3 text align="center"> &#128197; Data de Entrega: 08/03/2021 a 28/03/2021 &#128197; </h3>
+<h3 text align="center"> &#128197; 08/03/2021 a 28/03/2021 &#128197; </h3>
 
 
 ![1 sprint](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/assets/1%20sprint.PNG)
