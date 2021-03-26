@@ -60,7 +60,7 @@ Fabio                   | *Back-end developer*  |  [Visualizar](https://github.c
 
 ## <a name="Wireframes">*Wireframes* </a>
 
-### ![Burndown](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/burndown.jpeg)
+### Burndown(https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/burndown.jpeg)
 
 
 
