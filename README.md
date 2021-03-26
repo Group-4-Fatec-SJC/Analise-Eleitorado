@@ -58,7 +58,7 @@ Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](h
 ### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
 
 
-## <a name="Integrantes_da_Equipe">*Integrantes da Equipe*</a>
+## <a name="Integrantes_da_Equipe">*Integrantes da Equipe*&#127808;</a>
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
