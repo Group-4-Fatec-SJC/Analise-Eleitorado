@@ -50,13 +50,13 @@
 
 Membros   | Função  | GitHub  | Linkedin |
 --------- | ---------  | ---------  | --------- |
-Daniel Luciano dos Santos Filho                   | Scrum Master   |  [GitHub](https://github.com/daniellsfilho)  | [Linkedin](linkedin)   |
-Bruno Pisciotta                | Desenvolvedor Front-End  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
-Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [GitHub](https://github.com/Gabriel-Shishido)  | [Linkedin](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
-Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](https://github.com/GuilhermeCarissio777)  | [Linkedin](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
-João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [GitHub](https://github.com/jvrb)  | [Linkedin](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
-Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Daniel Luciano dos Santos Filho                   | *Scrum Master*   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
+Bruno Pisciotta                | *Front-end developer*  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
+Gustavo Leandro dos Santos     | *Front-end developer*  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)       |
+Guilherme Bernardo Guariglia Carissio | *Back-end developer*  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
+João Vitor Rodrigues Braga | *Back-end developer*  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
+Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+Fabio                   | *Back-end developer*  |  [Visualizar](https://github.com/FabioMoraesDev)  | [Visualizar](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)
 
 ## <a name="Wireframes">*Wireframes* </a>
 
