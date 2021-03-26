@@ -10,7 +10,7 @@
 
 <a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
 <a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
-<a href="#Sprints">3. Sprints</a><br>
+<a href="#Sprints">3. Sprint 1</a><br>
 <a href="#Backlog_do_Produto">4. Backlog da Sprint</a><br>
 <a href="#Tecnologias_Usadas">5. Tecnologias Usadas</a><br>
 <a href="#Lista_de_Requisitos">6. Lista de Requisitos</a><br>
