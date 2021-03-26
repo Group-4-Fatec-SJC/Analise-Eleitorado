@@ -68,8 +68,7 @@ Gustavo Leandro dos Santos     | *Front-end developer*  |  [Visualizar](https://
 Guilherme Bernardo Guariglia Carissio | *Back-end developer*  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
 João Vitor Rodrigues Braga | *Back-end developer*  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
 Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
-Fabio                   | *Back-end developer*  |  [Visualizar](https://github.com/FabioMoraesDev)  | [Visualizar](
-LINKEDIN:)               |
+Fabio                   | *Back-end developer*  |  [Visualizar](https://github.com/FabioMoraesDev)  | [Visualizar](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)
 
 
 
