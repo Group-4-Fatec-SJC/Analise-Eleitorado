@@ -51,13 +51,13 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-- [x] [SPRINT 0](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint) - 08/03/2021 a 28/03/2021
+- [x] [SPRINT 1](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint) - 08/03/2021 a 28/03/2021
 
-- [x] [SPRINT 1](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 29/03/2021 a 18/04/2021
+- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 29/03/2021 a 18/04/2021
 
-- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 17/05/2021 a 05/06/2021
+- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 17/05/2021 a 05/06/2021
 
-- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 07/06/2021 a 11/06/2021
+- [x] [SPRINT 4](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 07/06/2021 a 11/06/2021
 
 - [x] Apresentação Final - 07/06/2021 a 11/06/2021
 
@@ -70,13 +70,13 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :calendar: As Sprints
 
-☑️ SPRINT 0 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1)): Concluído :heavy_check_mark:
+SPRINT 2 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1)): Em Andamento :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2)): Concluído :heavy_check_mark:
+SPRINT 3 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2)): Em Andamento :heavy_check_mark:
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3)): Concluído :heavy_check_mark:
+SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3)): Em Andamento :heavy_check_mark:
 
 <br>
 
