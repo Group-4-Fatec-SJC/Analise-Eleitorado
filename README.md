@@ -87,18 +87,11 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 
 ## :computer: Tecnologias Utilizadas
 
-<h1 align="center"> <img src = "/Imagens Geral/tecnologia.png"/></h1>
+<h1 align="center"> <img src = "assets/Tecnologias%20Utilizadas.png"/></h1>
 
-* **Banco de Dados:** MySQL
-* **Back-end:** JavaScript e PhP
+* **Back-end:** JavaScript e Python
 * **Front-end:** HTML, CSS e Bootstrap
 * **Ferramentas:** Visual Studio Code e Figma
-
-<br>
-
-## :bulb: Metodologia Utilizada
-
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
 <br>
 
