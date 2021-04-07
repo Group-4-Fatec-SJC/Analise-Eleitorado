@@ -1,89 +1,155 @@
-<h1 text align="center"> &#9194; Programoid &#9193;</h1>
+<br>
+
+<p align="center">
+      <img src="assets/logo.png">
+      <h3 align="center"> Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.</h3>
+<p align="center">
+
+<hr>
+
+<p align="center">
+  <a href ="#Nosso_Objetivo"> Nosso Objetivo </a>  • 
+  <a href ="#O_que_é_o_Programoid"> O que é o Programoid? </a>  • 
+  <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
+  <a href ="#Sprints"> Sprints </a>  • 
+  <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
+  <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
+  <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
+  <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
+  <a href ="#mortar_board-equipe"> Equipe </a> 
+</p>
+
+<br>
+
+## :rocket: O Projeto
+O objetivo desse projeto é criar um site E-Commerce de materiais didáticos, com foco em ajudar professores e alunos em seus estudos, disponibilizando o melhor conteúdo didático a um clique de distância.
+
+> Status do Projeto: Concluído <img src = "/Imagens Geral/concluido.png" width="50" height="10" />
+
+<br>
+
+## :dart: Proposta
+
+**Desenvolver um Site de Vendas de Materiais Didáticos com as seguintes características:**<br><br>
+
+ > **Conteúdos**
+
+ - [x] Português (Concordância e Pontuação)
+ - [x] Matemática (Grafos e Lógica)
+ - [x] Inglês
+ - [x] Lógica de Programação
+ - [x] Laboratório de Hardware
+ - [x] Arquitetura e Organização de Computadores <br><br>
+
+ > **Requisitos**
+
+ - [x]  Materiais do tipo texto, vídeo e jogo;
+ - [x]  Login/Cadastro de usuário;
+ - [x]  Área do Administrador;
+ - [x]  Carrinho de Compras;
+ - [x]  Saldo de Créditos;
+ - [x]  Relatório de Vendas.<br><br>
+
+  
+**:link: Clique no link abaixo para visualizar o modelo do site no Figma.**  
+> [Protótipo do Site](https://www.figma.com/proto/IxIHeo1bBkB5B3z1DoVQIN/PI-Fatec?node-id=1%3A7&scaling=scale-down-width&hide-ui=1)
+
+<br>
+
+**:link: Clique no link abaixo para visualizar os custos do Projeto.** 
+> [Fatura](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/blob/master/SPRINT_0/Fatura%20SOS%20EDUCA.pdf)
+
+<br>
+
+**:link: Clique no link abaixo para visualizar o site hospedado:**
+>  [http://soseduca.site](http://soseduca.site/)
+ 
+  _Nota 1: O presente projeto tem apenas fins didáticos, portanto não cumprirá a [Lei n° 13.853, de 08/07/2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13853.htm) da Lei Geral de Proteção de Dados Pessoais (LGPD) em sua totalidade._
+  
+  _Nota 2: Devido ao tamanho disponível para hospedagem, nem todas as funcionalidades do site puderam ser hospedadas, todavia as principais funcionalidades, tais como compra e área do administrador, estão disponíveis para verificação. O Código do site em LocalHost, no entanto, compreende todas as funcionalidades._
+
+<br>
+
+## :camera_flash: Apresentação Final do Projeto
+
+**Clique no link abaixo para visualizar o vídeo final do projeto:**  
+> :movie_camera: [Vídeo Final](https://www.youtube.com/watch?v=gqUqGaXipe8&t=20s&ab_channel=fatecsjc)
+
+<br>
+
+## :hourglass_flowing_sand: Planejamento de Entregas
+
+- [x] [SPRINT 0](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0) - 07/09/2020 a 27/09/2020
+
+- [x] [SPRINT 1](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 28/09/2020 a 17/10/2020
+
+- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 19/10/2020 a 08/11/2020
+
+- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 09/11/2020 a 29/11/2020
+
+- [x] Apresentação Final - 30/11/2020 a 06/12/2020
+
+- [x] Feira de Soluções - 07/12/2020 a 13/12/2020
 
 
+<h1 align="center"> <img src = "/Imagens Geral/datas_3.png"/></h1>
 
+<br>
 
-![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
-![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
+## :calendar: As Sprints
 
-<h3 text align="center"> Seja bem-vindo ao Software de Análise do Eleitorado </h3>
+☑️ SPRINT 0 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0)): Concluído :heavy_check_mark:
 
-## *Estruturação do Conteúdo*&#128193;
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1)): Concluído :heavy_check_mark:
 
-<a href="#Nosso_Objetivo">1. Nosso Objetivo</a><br>
-<a href="#O_que_é_o_Programoid">2. O que é o Programoid?</a><br>
-<a href="#Sprints">3. Sprints</a><br>
-<a href="#Backlog_do_Produto">4. Backlog do Produto</a><br>
-<a href="#lista_requisitos">5. Lista de Requisitos</a><br>
-<a href="#Tecnologias_Usadas">6. Tecnologias Usadas</a><br>
-<a href="#Integrantes_da_Equipe">7. Integrantes da Equipe</a><br>
-<a href="#Video_do_Projeto">8. Vídeo do Projeto</a><br>
-<a href="#Wireframe_Completo">9. Wireframe</a><br>
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2)): Concluído :heavy_check_mark:
 
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3)): Concluído :heavy_check_mark:
 
-## <a name="Nosso_Objetivo">*Nosso Objetivo*&#128188;</a>
+<br>
 
-#### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
+## :card_index_dividers: Cards das Sprints
+<img src="/Imagens Geral/fullcards.png" width="1500" height="450">
 
-## <a name="O_que_é_o_Programoid">*O que é o Programoid?*&#128153;</a>
+<br>
 
-#### Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.
+## :computer: Tecnologias Utilizadas
 
+<h1 align="center"> <img src = "/Imagens Geral/tecnologia.png"/></h1>
 
-## <a name="Sprints">*Sprints*&#128198;</a>
+* **Banco de Dados:** MySQL
+* **Back-end:** JavaScript e PhP
+* **Front-end:** HTML, CSS e Bootstrap
+* **Ferramentas:** Visual Studio Code e Figma
 
-Sprints   | Descrições  | Datas  | Links |
-:---------: | :-----:  | :------------:  | :---------: |
-Sprint 1  | *Wireframes e Protótipos Navegáveis* |  08/03/2021 a 28/03/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md )   |
-Sprint 2  | *Descrição Sprint 2*  |  29/03/2021 a 18/04/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
-Sprint 3  | *Descrição Sprint 3*  |  17/05/2021 a 05/06/2021  |[Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
-Sprint 4  | *Descrição Sprint 4*  |  07/06/2021 a 11/06/2021  | [Visualizar](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint/README.md)   |
+<br>
 
+## :bulb: Metodologia Utilizada
 
+* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
-## <a name="Backlog_do_Produto">*Backlog do Produto*&#128203;</a>
+<br>
 
-### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
-### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
-### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
+## :bar_chart: Backlog do Produto
 
+<h1 align="center"> <img src = "/Imagens Geral/backlog_novo.png" /></h1>
 
-## <a name="lista_requisitos">*Lista de Requisitos*&#128196;</a>
+<br>
 
-### ![REQUSITOS FUNCIONAIS](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/FUNCIONAIS.PNG)
-### ![REQUSITOS NÃO FUNCIONAIS](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/N%C3%83O%20FUNCIONAIS.PNG)
-### ![REQUSITOS ORGANIZACIONAIS](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ORGANIZACIONAIS.PNG)
+## :mortar_board: Equipe 
 
-## <a name="Tecnologias_Usadas">*Tecnologias Usadas*&#9889;</a>
-### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
+|Nome|Função|Linkedin|GitHub|Avatar|
+| -------- |-------- |-------- |-------- |-------- |
+|**Beatriz Nonato**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/beatriz-nonato-aa11017a/)|[@GitHub](https://github.com/BeaNonato)|<img src = "/Imagens Geral/Beatriz.png" width="50" height="50"/>|
+|**Nayara Lopes**|Desenvolvedor 1| [@LinkedIn](https://www.linkedin.com/in/nayara-suelen-382420137/)|[@GitHub](https://github.com/NayDev)|<img src = "/Imagens Geral/Nayara.png" width="50" height="50"/>|
+|**Raphael Lisboa**|Desenvolvedor 2| [@LinkedIn](https://www.linkedin.com/in/raphael-lisboa-7b3597187/)|[@GitHub](https://github.com/raphaelprado)|<img src = "/Imagens Geral/Raphael.png" width="50" height="50" />|
+|**Bryan Ribeiro**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/bryanrribeiro/)|[@GitHub](https://github.com/BryanRibeiro)|<img src = "/Imagens Geral/Bryan.png" width="50" height="50" />|
+|**Jeferson Henrique**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/jeferson-silva-249884149/)|[@GitHub](https://github.com/JefersonHenrique)|<img src = "/Imagens Geral/Jeferson.png" width="50" height="50" />|
+|**Jefferson Reis**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/jeffersonrrs)|<img src = "/Imagens Geral/jefferson.png" width="50" height="50" />|
+   
 
+<br>
 
-## <a name="Integrantes_da_Equipe">*Integrantes da Equipe*&#127808;</a>
-
-Membros   | Função  | GitHub  | Linkedin |
---------- | ---------  | ---------  | --------- |
-Daniel Luciano dos Santos Filho                   | *Scrum Master*   |  [Visualizar](https://github.com/daniellsfilho)  | [Visualizar](linkedin)   |
-Bruno Pisciotta                | *Front-end developer*  |  [Visualizar](https://github.com/bruno-pisciotta281)  | [Visualizar](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | *Front-end developer*  |  [Visualizar](https://github.com/gustavols)  | [Visualizar](https://www.linkedin.com/in/gustavo-santos-a0657219b/)       |
-Guilherme Bernardo Guariglia Carissio | *Back-end developer*  |  [Visualizar](https://github.com/GuilhermeCarissio777)  | [Visualizar](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
-João Vitor Rodrigues Braga | *Back-end developer*  |  [Visualizar](https://github.com/jvrb)  | [Visualizar](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
-Lucas Midoes                   | *Back-end developer*  |  [Visualizar](https://github.com/LykeMidrod)  | [Visualizar](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
-Fabio                   | *Back-end developer*  |  [Visualizar](https://github.com/FabioMoraesDev)  | [Visualizar](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)
-
-
-
-
-
-## <a name="Video_do_Projeto">[Vídeo do Projeto](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba) &#127910;</a>
-
-## <a name="Wireframe_Completo"> *Wireframe*&#128218; </a>
-
-### ![WIREFRAME](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF_WIREFRAME.gif)
-
-#### Para visualizar o wireframe completo, [Clique Aqui](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1)
-
-
-
-
-
-
+ <h1 align="center"> <img src = "/Imagens Geral/logo fatec.png" height="90" /></h1>
+ 
+ <h5 align="center"> <img src = "/Imagens Geral/fatec.png" width="20" height="20" /> Projeto Integrador - Fatec São José dos Campos </h5>
