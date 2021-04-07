@@ -45,31 +45,9 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 
   
-**:link: Clique no link abaixo para visualizar o modelo do site no Figma.**  
-> [Protótipo do Site](https://www.figma.com/proto/IxIHeo1bBkB5B3z1DoVQIN/PI-Fatec?node-id=1%3A7&scaling=scale-down-width&hide-ui=1)
+**:link: Clique no link para visualizar o Protótipo Navegável**  
+> [Protótipo do Site](https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1))
 
-<br>
-
-**:link: Clique no link abaixo para visualizar os custos do Projeto.** 
-> [Fatura](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/blob/master/SPRINT_0/Fatura%20SOS%20EDUCA.pdf)
-
-<br>
-
-**:link: Clique no link abaixo para visualizar o site hospedado:**
->  [http://soseduca.site](http://soseduca.site/)
- 
-  _Nota 1: O presente projeto tem apenas fins didáticos, portanto não cumprirá a [Lei n° 13.853, de 08/07/2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13853.htm) da Lei Geral de Proteção de Dados Pessoais (LGPD) em sua totalidade._
-  
-  _Nota 2: Devido ao tamanho disponível para hospedagem, nem todas as funcionalidades do site puderam ser hospedadas, todavia as principais funcionalidades, tais como compra e área do administrador, estão disponíveis para verificação. O Código do site em LocalHost, no entanto, compreende todas as funcionalidades._
-
-<br>
-
-## :camera_flash: Apresentação Final do Projeto
-
-**Clique no link abaixo para visualizar o vídeo final do projeto:**  
-> :movie_camera: [Vídeo Final](https://www.youtube.com/watch?v=gqUqGaXipe8&t=20s&ab_channel=fatecsjc)
-
-<br>
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
