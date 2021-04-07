@@ -2,7 +2,7 @@
 
 <p align="center">
       <img src="assets/logo.png">
-      <h3 align="center"> Programoid é uma equipe de desenvolvedores que busca solucionar problemas e dificuldades do dia a dia do ser humano, de uma forma simples e eficaz atráves do desenvolvimento.</h3>
+      <h3 align="center"> Software de Análise do Eleitorado</h3>
 <p align="center">
 
 <hr>
