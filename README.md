@@ -51,17 +51,17 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-- [x] [SPRINT 0](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0) - 07/09/2020 a 27/09/2020
+- [x] [SPRINT 0](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint) - 08/03/2021 a 28/03/2021
 
-- [x] [SPRINT 1](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 28/09/2020 a 17/10/2020
+- [x] [SPRINT 1](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 29/03/2021 a 18/04/2021
 
-- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 19/10/2020 a 08/11/2020
+- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 17/05/2021 a 05/06/2021
 
-- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 09/11/2020 a 29/11/2020
+- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 07/06/2021 a 11/06/2021
 
-- [x] Apresentação Final - 30/11/2020 a 06/12/2020
+- [x] Apresentação Final - 07/06/2021 a 11/06/2021
 
-- [x] Feira de Soluções - 07/12/2020 a 13/12/2020
+- [x] Feira de Soluções - 14/06/2021 a 18/06/2021
 
 
 <h1 align="center"> <img src = "/Imagens Geral/datas_3.png"/></h1>
