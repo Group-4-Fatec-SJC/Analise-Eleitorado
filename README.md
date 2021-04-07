@@ -22,33 +22,27 @@
 <br>
 
 ## :rocket: O Projeto
-O objetivo desse projeto é criar um site E-Commerce de materiais didáticos, com foco em ajudar professores e alunos em seus estudos, disponibilizando o melhor conteúdo didático a um clique de distância.
-
-> Status do Projeto: Concluído <img src = "/Imagens Geral/concluido.png" width="50" height="10" />
+Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
 
 <br>
 
 ## :dart: Proposta
 
-**Desenvolver um Site de Vendas de Materiais Didáticos com as seguintes características:**<br><br>
+**Desenvolver um Site onde possa ser vistos dados eleitorais de eleições passadas:**<br><br>
 
  > **Conteúdos**
 
- - [x] Português (Concordância e Pontuação)
- - [x] Matemática (Grafos e Lógica)
- - [x] Inglês
- - [x] Lógica de Programação
- - [x] Laboratório de Hardware
- - [x] Arquitetura e Organização de Computadores <br><br>
+ - [x] Visualização de Dados Eleitorais
+ - [x] Documentação Sobre o Projeto
+ - [x] Suporte aos Usuários
+ - [x] Apresentação do Site
+
 
  > **Requisitos**
 
- - [x]  Materiais do tipo texto, vídeo e jogo;
- - [x]  Login/Cadastro de usuário;
- - [x]  Área do Administrador;
- - [x]  Carrinho de Compras;
- - [x]  Saldo de Créditos;
- - [x]  Relatório de Vendas.<br><br>
+ - [x]  Fácil Edição de Código;
+ - [x]  Usar python no Back-End
+
 
   
 **:link: Clique no link abaixo para visualizar o modelo do site no Figma.**  
