@@ -105,12 +105,12 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Beatriz Nonato**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/beatriz-nonato-aa11017a/)|[@GitHub](https://github.com/BeaNonato)|<img src = "/Imagens Geral/Beatriz.png" width="50" height="50"/>|
-|**Nayara Lopes**|Desenvolvedor 1| [@LinkedIn](https://www.linkedin.com/in/nayara-suelen-382420137/)|[@GitHub](https://github.com/NayDev)|<img src = "/Imagens Geral/Nayara.png" width="50" height="50"/>|
-|**Raphael Lisboa**|Desenvolvedor 2| [@LinkedIn](https://www.linkedin.com/in/raphael-lisboa-7b3597187/)|[@GitHub](https://github.com/raphaelprado)|<img src = "/Imagens Geral/Raphael.png" width="50" height="50" />|
-|**Bryan Ribeiro**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/bryanrribeiro/)|[@GitHub](https://github.com/BryanRibeiro)|<img src = "/Imagens Geral/Bryan.png" width="50" height="50" />|
-|**Jeferson Henrique**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/jeferson-silva-249884149/)|[@GitHub](https://github.com/JefersonHenrique)|<img src = "/Imagens Geral/Jeferson.png" width="50" height="50" />|
-|**Jefferson Reis**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/jeffersonrrs)|<img src = "/Imagens Geral/jefferson.png" width="50" height="50" />|
+|**Gustavo Leandro dos Santos**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/gustavo-santos-a0657219b/)|[@GitHub](https://github.com/gustavols)|
+|**Bruno Pisciotta**|Desenvolvedor Front-End| [@LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198)|[@GitHub](https://github.com/bruno-pisciotta281)|
+|**Daniel Luciano dos Santos Filho**|Desenvolvedor  Front-End| [@LinkedIn](https://github.com/gustavols)|[@GitHub](https://github.com/daniellsfilho)|
+|**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
+|**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)||
+|**Lucas Midoes**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/LykeMidrod)|
    
 
 <br>
