@@ -103,7 +103,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 
 ## :mortar_board: Equipe 
 
-|Nome|Função|Linkedin|GitHub|Avatar|
+|Nome|Função|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |-------- |
 |**Gustavo Leandro dos Santos**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/gustavo-santos-a0657219b/)|[@GitHub](https://github.com/gustavols)|
 |**Bruno Pisciotta**|Desenvolvedor Front-End| [@LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198)|[@GitHub](https://github.com/bruno-pisciotta281)|
