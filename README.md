@@ -96,7 +96,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 
 ## :bar_chart: Backlog do Produto
 
-<h1 align="center"> <img src = "assets/BACKLOG DO PRODUTO.pngT.PNG" /></h1>
+<h1 align="center"> <img src = "assets/BACKLOG DO PRODUTO.png" /></h1>
 
 <br>
 
