@@ -9,11 +9,6 @@ Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <br>
 
-**Clique no link abaixo para visualizar a Apresentação de Pitch.**  
-> [Apresentação Pitch](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/blob/master/SPRINT_0/Pitch%20-%20Grupo%201%20-%20ADS%20-%20Turma%20A.pdf)
-
-<br>
-
 ## :desktop_computer: Layout
 
 <h3 align="center">HOME</h3>
