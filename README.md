@@ -16,39 +16,28 @@ Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 ## :desktop_computer: Layout
 
-<h3 align="center">Produtos</h3>
+<h3 align="center">HOME</h3>
 
 <h1 align="center"> <img src = "/Imagens Geral/materiais.gif"/></h1>
 
 <br>
 
-<h3 align="center">Carrinho</h3>
+<h3 align="center">TEAM</h3>
 
 <h1 align="center"> <img src = "/Imagens Geral/carrinho.gif"/></h1>
 
 <br>
 
-<h3 align="center">Notícias</h3>
+<h3 align="center"DOCUMENTAÇÃO</h3>
 
 <h1 align="center"> <img src = "/Imagens Geral/blog.gif"/></h1>
 
 <br>
 
-<h3 align="center">Login</h3>
+<h3 align="center">DASHBOARD</h3>
 
 <h1 align="center"> <img src = "/Imagens Geral/login.gif"/></h1>
 
-<br>
-
-<h3 align="center">Área ADM</h3>
-
-<h1 align="center"> <img src = "/Imagens Geral/area_adm.gif"/></h1>
-
-<br>
-
-<h3 align="center">Área Cliente</h3>
-
-<h1 align="center"> <img src = "/Imagens Geral/area_cliente.gif"/></h1>
 
 <br>
 
