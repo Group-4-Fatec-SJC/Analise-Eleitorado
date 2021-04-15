@@ -8,10 +8,10 @@
 <hr>
 
 <p align="center">
-  <a href =":rocket: O Projeto"> O Projeto </a>  • 
-  <a href =":dart: Proposta"> Proposta </a>  • 
+  <a href ="#:rocket: O Projeto"> O Projeto </a>  • 
+  <a href ="#:dart: Proposta"> Proposta </a>  • 
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#Sprints"> Sprints </a>  • 
+  <a href ="#:calendar: As Sprints"> Sprints </a>  • 
   <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
   <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
