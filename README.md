@@ -6,7 +6,32 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 <br>
 
+## :desktop_computer: Layout
 
+<h3 align="center">HOME</h3>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INDEX.gif"/></h1>
+
+<br>
+
+<h3 align="center">TEAM</h3>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/TEAM.gif"/></h1>
+
+<br>
+
+<h3 align="center">DOCUMENTAÇÃO</h3>
+
+<h1 align="center"> <img src ="https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/DOCUMENTA%C3%87%C3%83O.gif"/></h1>
+
+<br>
+
+<h3 align="center">DASHBOARD</h3>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/DASHBOARD.gif"/></h1>
+
+
+<br>
 
 
 <h2>&#x1F3A8; Paleta de Cores</h2>
