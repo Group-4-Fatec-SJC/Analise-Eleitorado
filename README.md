@@ -6,24 +6,10 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 <br>
 
-## :desktop_computer: Layout
 
-<h1>DEFINIÇÃO DOS FILTROS</h1>
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF%20HOME.gif"/></h1>
 
-<br>
 
-<h1 >CÓDIGOS EM PYTHON</h1>
-
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF%20TEAM.gif"/></h1>
-<br>
-
-<h1 >DESENVOLVIMENTO DO DASHBOARD</h1>
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF%20DOCUMENTATION.gif"/></h1>
-
-<br>
-
-<h1>PALETA DE CORES</h1>
+<h2>Paleta de Cores</h2>
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PALETA%20DE%20CORES.png"/></h1>
 
 
