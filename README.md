@@ -2,7 +2,7 @@
 
 <p align="center">
       <img src="assets/logo.png">
-      <h3 align="center"> Software de Análise do Eleitorado</h3>
+      <h2 align="center"> Software de Análise do Eleitorado</h3>
 <p align="center">
 
 <hr>
