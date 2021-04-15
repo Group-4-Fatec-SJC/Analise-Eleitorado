@@ -31,7 +31,7 @@ Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h3 align="center">DASHBOARD</h3>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF_WIREFRAME.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/DASHBOARD.gif"/></h1>
 
 
 <br>
