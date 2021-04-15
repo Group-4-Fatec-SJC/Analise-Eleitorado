@@ -80,7 +80,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 <br>
 
 ## :card_index_dividers: Cards das Sprints
-<img src="/assets/CARD_SPRINT.PNG" >
+<img src="https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/CARDS.png" >
 
 <br>
 
