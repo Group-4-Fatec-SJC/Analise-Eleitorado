@@ -110,7 +110,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 |**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
 |**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)||
 |**Lucas Midoes**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/LykeMidrod)|
-|**Fábio **|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)|[@GitHub](https://github.com/FabioMoraesDev)|
+|**Fábio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)|[@GitHub](https://github.com/FabioMoraesDev)|
    
 
 <br>
