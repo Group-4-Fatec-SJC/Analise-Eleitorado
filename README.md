@@ -13,13 +13,13 @@ Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h3 align="center">HOME</h3>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF%20HOME.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INDEX.gif"/></h1>
 
 <br>
 
 <h3 align="center">TEAM</h3>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/GIF%20TEAM.gif"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/TEAM.gif"/></h1>
 
 <br>
 
