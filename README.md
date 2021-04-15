@@ -6,7 +6,7 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 <br>
 
-## :desktop_computer: Layout
+## :desktop_computer: Front-End da Aplicação
 
 <h3 align="center">HOME</h3>
 
