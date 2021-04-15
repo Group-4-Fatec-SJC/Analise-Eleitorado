@@ -8,8 +8,8 @@
 <hr>
 
 <p align="center">
-  <a href ="#Nosso_Objetivo"> Nosso Objetivo </a>  • 
-  <a href ="#O_que_é_o_Programoid"> O que é o Programoid? </a>  • 
+  <a href =":rocket: O Projeto"> O Projeto </a>  • 
+  <a href =":dart: Proposta"> Proposta </a>  • 
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
   <a href ="#Sprints"> Sprints </a>  • 
   <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
