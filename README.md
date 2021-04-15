@@ -9,7 +9,7 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplicaÃ
 
 
 
-<h2>Paleta de Cores</h2>
+<h2>&#x1F3A8; Paleta de Cores</h2>
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PALETA%20DE%20CORES.png"/></h1>
 
 
