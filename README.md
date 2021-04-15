@@ -63,7 +63,7 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 - [x] Feira de Soluções - 14/06/2021 a 18/06/2021
 
 
-<h1 align="center"> <img src = "/Imagens Geral/datas_3.png"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/constru%C3%A7%C3%A3o.png"/></h1>
 
 <br>
 
