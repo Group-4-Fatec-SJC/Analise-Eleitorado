@@ -2,7 +2,7 @@
 
 <p align="center">
       <img src="assets/logo.png">
-      <h2 align="center"> Software de Análise do Eleitorado</h3>
+      <h2 align="center"> Software de Análise do Eleitorado</h2>
 <p align="center">
 
 <hr>
@@ -95,7 +95,8 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 <br>
 
 ## :bar_chart: Backlog do Produto
-
+<h4 align="center"> Nossa Backlog do Produto tem como base as prioridades</h4>
+<br>
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PRODUCT_BACKLOG.png" /></h1>
 
 <br>
