@@ -96,6 +96,12 @@ SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA
 
 ## :bar_chart: Backlog do Produto
 
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PRODUCT_BACKLOG.png" /></h1>
+
+<br>
+
+## &#128195; Backlog da Sprint
+
 <h1 align="center"> <img src = "assets/BACKLOG DO PRODUTO.png" /></h1>
 
 <br>
