@@ -9,9 +9,18 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 ## &#128269; Filtros
 
-<h5 align="center">Alguns filtros que pode ser encontrado em nosso software:</h5>
+<h4>Alguns filtros que pode ser encontrado em nosso software:</h4>
 
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/filtros.png"/></h1>
+
+<br>
+
+## &#9999;&#65039; Edição dos Códicos
+
+<h3>Aprenda a Usar e Editar de Uma Forma Fácil:</h3>
+https://www.youtube.com/watch?v=3vYeQLJ2as4
+
+
 
 <br>
 
