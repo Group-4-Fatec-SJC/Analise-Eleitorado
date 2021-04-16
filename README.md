@@ -15,7 +15,7 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 <br>
 
-## &#9999;&#65039; Edição dos Códicos
+## &#9999;&#65039; Edição dos Códigos
 
 <h3>Aprenda a Usar e Editar de Uma Forma Fácil:</h3>
 https://www.youtube.com/watch?v=3vYeQLJ2as4
