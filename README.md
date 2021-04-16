@@ -20,6 +20,10 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica√
 <h3>Aprenda a Usar e Editar de Uma Forma F√°cil:</h3>
 https://www.youtube.com/watch?v=3vYeQLJ2as4
 
+<h3>Dowload dos Arquivos:</h3>
+https://www.dropbox.com/sh/83w0kn85rsdfx3a/AAC8fOI3mMnXMJ64atT2WdqEa?dl=0
+
+
 
 
 <br>
