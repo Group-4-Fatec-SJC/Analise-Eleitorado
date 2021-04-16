@@ -4,6 +4,15 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/SPRINT%202.png" /></h1>
 
+
+<br>
+
+## &#128269; Filtros
+
+<h5 align="center">Alguns filtros que pode ser encontrado em nosso software:</h5>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/filtros.png"/></h1>
+
 <br>
 
 ## :desktop_computer: Front-End da Aplicação
