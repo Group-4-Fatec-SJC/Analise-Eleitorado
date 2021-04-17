@@ -21,7 +21,31 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplica�
 https://www.youtube.com/watch?v=3vYeQLJ2as4
 
 <h3>Dowload dos Arquivos:</h3>
-https://www.dropbox.com/sh/83w0kn85rsdfx3a/AAC8fOI3mMnXMJ64atT2WdqEa?dl=0
+https://www.youtube.com/watch?v=PhwWiEUOynU&t=44s
+
+<h3>Comandos no CMD para Instalação do Jupyter</h3>
+
+
+```
+
+1 - pip install jupyter
+
+```
+
+```
+
+2 - pip install panda
+
+```
+```
+3 - pip install plotly
+
+```
+```
+
+4 - pip install cufflinks
+
+```
 
 
 
