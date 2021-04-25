@@ -50,13 +50,13 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
 
-- [x] [SPRINT 1](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/1-Sprint) - 08/03/2021 a 28/03/2021
+- [x] [SPRINT 1](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/1-Sprint) - 08/03/2021 a 28/03/2021
 
-- [x] [SPRINT 2](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1) - 29/03/2021 a 18/04/2021
+- [x] [SPRINT 2](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/2-Sprint) - 29/03/2021 a 18/04/2021
 
-- [x] [SPRINT 3](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2) - 17/05/2021 a 05/06/2021
+- [x] [SPRINT 3](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint) - 17/05/2021 a 05/06/2021
 
-- [x] [SPRINT 4](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3) - 07/06/2021 a 11/06/2021
+- [x] [SPRINT 4](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint) - 07/06/2021 a 11/06/2021
 
 - [x] Apresentação Final - 07/06/2021 a 11/06/2021
 
@@ -69,13 +69,13 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :calendar: As Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_0)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/1-Sprint): Concluído :heavy_check_mark:
 
-SPRINT 2 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_1)): Em Andamento 
+SPRINT 2 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/2-Sprint): Concluído :heavy_check_mark:
 
-SPRINT 3 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_2)): Em Andamento 
+SPRINT 3 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint): Em Andamento 
 
-SPRINT 4 ([Link da Pasta](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA/tree/master/SPRINT_3)): Em Andamento 
+SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint): Em Andamento 
 
 <br>
 
