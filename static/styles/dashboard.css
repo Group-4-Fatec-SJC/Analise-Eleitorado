@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+/* RESET CSS */
+*{
+scroll-behavior: smooth;
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+;
+}
+
+body{
+background: white;
+
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-template-rows: 20% 80%;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar{
+background-color: #1746E0;
+grid-column-start: 1;
+grid-column-end: 1;
+grid-row-start: 1;
+grid-row-end: 3;
+display: grid;
+align-content: center;
+justify-content: center;
+}
+.sidebar img{
+    padding: 10px;
+}
+
+.navbar{
+
+    flex-direction: column;
+    align-self: center;
+}
+
+.navbar form select{
+    width: 260px;
+    height: 30px;
+    background-color: #f2f2f2;
+    padding: 3px;
+    border: 1px solid #ccc;
+    color: #333;
+    border-radius: 3px;
+}
+.buttonSearch{
+    width: 200px;
+    height: 30px;
+    background-color: #1746E0;
+    border: 1px solid #1746E0;
+    color: white;
+}
+
+.activea:hover{
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.titulo{
+    height: 110px;
+    padding-top:10px;
+    margin-top: 10px;
+    text-align: center;
+    align-content: center;
+    display: grid;
+}
+
+.card{
+    height: 90px;
+    border-radius: 20px !important;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px;
+}
+
+.card-title{
+    margin-bottom: 0px !important;
+    font-size: 16px;
+}
+
+
+.card-number{
+    font-size: 30px;
+    font-weight: bold;
+    color: #1746E0;
+}
+
+.graphic{
+    background-color: #E1E7FC;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 2;
+    display: grid;
+}
+.graphic h1{
+    display: grid;
+    text-align: center;
+    align-content: center;
+}
+
+.line-chart{
+  height: 50%;
+}

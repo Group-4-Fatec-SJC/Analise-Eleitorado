@@ -1,0 +1,84 @@
+@charset "UTF-8"; 
+
+/* RESET CSS */
+*{
+scroll-behavior: smooth;
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+;
+}
+
+body{
+background: white;
+
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-template-rows: 20% 80%;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar{
+background-color: #1746E0;
+grid-column-start: 1;
+grid-column-end: 1;
+grid-row-start: 1;
+grid-row-end: 3;
+display: grid;
+align-content: center;
+justify-content: center;
+}
+.sidebar img{
+    padding: 10px;
+}
+
+
+.activea:hover{
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.graphic{
+    background-color: white;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+}
+.graphic h1{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 58px;
+    text-align: justify;
+    max-width: 1200px;
+}
+.graphic p{
+    margin-left: 5%;
+    font-size: 28px;
+    max-width: 1200px;
+    text-align: justify;
+}
+.buttonDowload{
+    background: #E1E7FC;
+    color: #6C8BF0;
+    border: 1px solid #E1E7FC;
+    width: 255.61px;
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    text-decoration: none;
+}
+.buttonDowload a{
+    text-decoration: none;
+}
+.buttonDowload:hover{
+    background: #E1E7FC;
+    color: #6C8BF0;
+    text-decoration: none;
+}
