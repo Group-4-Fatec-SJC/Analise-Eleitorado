@@ -1,64 +1,97 @@
-# Software de Análise do Eleitorado
+## :ballot_box_with_check: Entrega 3 - SPRINT 3
 
-![LOGO FATEC](https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png)
-![LOGO PROGRAMOID](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/logo.png)
+Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplicação do seguinte card:
 
-## Objetivo do Projeto
-
-#### Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de São José dos Campos, SP, Brasil, com a finalidade de criação de um software de busca de dados rápida e eficaz do eleitorado das eleições brasileiras.
-
-## Conteúdo
-1. Apresentação do Projeto
-2. Objetivo do Projeto
-3. Conteúdo
-4. Sprints
-5. Backlog
-6. Tecnologias Usadas
-7. Funções dos Integrantes
-8. Vídeo de Apresentação
-9. Wireframes
-
-## Sprints
-
-* 08/03/2021 a 28/03/2021 - Primeira Sprint 
-* 08/03/2021 a 28/03/2021 - Segunda Sprint
-* 08/03/2021 a 08/03/2021 - Terceira Sprint
-* 08/03/2021 a 08/03/2021 - Quarta Sprint
-* 08/03/2021 a 08/03/2021 - Apresentação do Projeto
-
-## Backlog do Produto
-
-### ![1 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog.PNG)
-### ![2 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_1.PNG)
-### ![3 BACKLOG](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/backlog_2.PNG)
-
-## Tecnologias Usadas
-### ![Tecnologias Usadas](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas.png)
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/SPRINT%202.png" /></h1>
 
 
-## Funções
+<br>
 
-Membros   | Função  | GitHub  | Linkedin |
---------- | ---------  | ---------  | --------- |
-Daniel Luciano dos Santos Filho                   | Scrum Master   |  [GitHub](https://github.com/daniellsfilho)  | [Linkedin](linkedin)   |
-Bruno Pisciotta                | Desenvolvedor Front-End  |  [GitHub](https://github.com/bruno-pisciotta281)  | [Linkedin](https://www.linkedin.com/in/bruno-pisciotta-577216198)        |
-Gustavo Leandro dos Santos     | Desenvolvedor Front-End  |  [GitHub](https://github.com/gustavols)  | [Linkedin](https://www.linkedin.com/in/gustavo-santos-a0657219b/)                                                  |
-Gabriel Hiromi Shishido | Desenvolvedor Back-End  |  [GitHub](https://github.com/Gabriel-Shishido)  | [Linkedin](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba)    |
-Guilherme Bernardo Guariglia Carissio | Desenvolvedor Back-End  |  [GitHub](https://github.com/GuilhermeCarissio777)  | [Linkedin](https://www.linkedin.com/in/guilherme-carissio-7275a4207)    |
-João Vitor Rodrigues Braga | Desenvolvedor Back-End  |  [GitHub](https://github.com/jvrb)  | [Linkedin](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)    |
-Lucas Midoes                   | Testes de Software  |  [GitHub](https://github.com/LykeMidrod)  | [Linkedin](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)               |
+## &#128269; Filtros
 
+<h4>Alguns filtros que pode ser encontrado em nosso software:</h4>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/filtros.png"/></h1>
+
+<br>
+
+## &#9999;&#65039; Edição dos Códigos
+
+<h3>Aprenda a Usar e Editar de Uma Forma Fácil:</h3>
+https://www.youtube.com/watch?v=PhwWiEUOynU&t=44s
+
+<h3>Dowload dos Arquivos:</h3>
+https://www.dropbox.com/sh/83w0kn85rsdfx3a/AAC8fOI3mMnXMJ64atT2WdqEa?dl=0
+
+<h3>Comandos no CMD para Instalação do Jupyter</h3>
+
+
+```
+
+1 - pip install jupyter
+
+```
+
+```
+
+2 - pip install panda
+
+```
+```
+3 - pip install plotly
+
+```
+```
+
+4 - pip install cufflinks
+
+```
 
 
 
 
-## Vídeo
+<br>
 
-#### Vídeo do Projeto:
+## :desktop_computer: Front-End da Aplicação
 
-## Wireframe
+<h3 align="center">HOME</h3>
 
-#### Link do Wireframe do Projeto: https://www.figma.com/file/GegxNnhKxYTVcjczO1CTOK/PROJETO-API-S?node-id=0%3A1
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INDEX.gif"/></h1>
+
+<br>
+
+<h3 align="center">TEAM</h3>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/TEAM.gif"/></h1>
+
+<br>
+
+<h3 align="center">DOCUMENTAÇÃO</h3>
+
+<h1 align="center"> <img src ="https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/DOCUMENTA%C3%87%C3%83O.gif"/></h1>
+
+<br>
+
+<h3 align="center">DASHBOARD</h3>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/DASHBOARD.gif"/></h1>
+
+
+<br>
+
+
+<h2>&#x1F3A8; Paleta de Cores</h2>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PALETA%20DE%20CORES.png"/></h1>
+
+
+<br>
+
+<h1>&#128200;Burndown</h1>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT2.PNG"/></h1>
+
+<br>
+
 
 
 
