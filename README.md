@@ -8,27 +8,27 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 <br>
 
 
-<h3>Comandos no CMD para Instalação do Jupyter</h3>
+<h3>Passos para iniciar a aplicação</h3>
 
 
 ```
 
-1 - pip install jupyter
+1 - git clone do projeto
 
 ```
 
 ```
 
-2 - pip install panda
+2 - Abra a pasta no programa pycharm
 
 ```
 ```
-3 - pip install plotly
+3 - Abra o terminal e digite app.py
 
 ```
 ```
 
-4 - pip install cufflinks
+4 - Abra a url fornecida
 
 ```
 
