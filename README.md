@@ -8,32 +8,11 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 <br>
 
 
-<h3>Passos para iniciar a aplicação</h3>
+<h1>&#128071; Passos para iniciar a aplicação</h1>
 
+[Clique Aqui](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/1-Sprint)
 
-```
-
-1 - git clone do projeto
-
-```
-
-```
-
-2 - Abra a pasta no programa pycharm
-
-```
-```
-3 - Abra o terminal e digite app.py
-
-```
-```
-
-4 - Abra a url fornecida
-
-```
-
-
-
+<img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
 
 
 <h1>&#128200;Burndown</h1>
