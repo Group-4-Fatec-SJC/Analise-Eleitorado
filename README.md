@@ -27,7 +27,7 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :dart: Proposta
 
-**Desenvolver um Site onde possa ser vistos dados eleitorais de eleições passadas:**<br><br>
+**Desenvolver um Site onde possa ser visualizados dados eleitorais de eleições passadas:**<br><br>
 
  > **Conteúdos**
 
