@@ -10,7 +10,6 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h1>&#128071; Passos para iniciar a aplicação</h1>
 
-[Clique Aqui](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/1-Sprint)
 
 <img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
 
