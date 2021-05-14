@@ -37,7 +37,7 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h1>&#128200;Burndown</h1>
 
-<h1 align="center"> <img src = "https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/burndown4.PNG"/></h1>
+<h1 align="center"> <img src = "https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/BURNDOWN_4.PNG"/></h1>
 
 <br>
 
