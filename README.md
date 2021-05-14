@@ -22,8 +22,16 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 >A aplicação estará pronta para uso.
  
- 
+<br>
+<h1>&#127915; Integração do Back-end com o Front-end</h1>
+<img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
 
+<br>
+<h1>&#128165; Interatividade das Páginas</h1>
+<img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
+
+<br>
+<h1>&#9200; Busca por eleições passdas</h1>
 <img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
 
 
