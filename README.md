@@ -32,7 +32,7 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <br>
 <h1>&#9200; Busca por eleições passdas</h1>
-<img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
+<h5>Devido ao andamento do projeto e pela importância dessa tarefa, decidimos não realizar a entrega dela.</h5>
 
 
 <h1>&#128200;Burndown</h1>
