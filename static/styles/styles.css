@@ -1,0 +1,185 @@
+@charset "UTF-8"; 
+
+/* RESET CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#atual{
+    color: #1746E0;
+}
+#atual:hover{
+    color:rgb(3, 139, 250) !important;
+}
+.nav-item a:hover{
+    color:#1746E0 !important;
+} 
+
+/* ESTILOS DIV APRESENTATION */
+
+.apresentationTitle{
+    font-size: 60px;
+}
+.apresentationSubtitle{
+    font-size: 30px;
+}
+.apresentationButton{
+    font-size: 22px;
+    background: #1746E0;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+.apresentationButton:hover{
+        color: white;
+        text-decoration: none;
+}
+.apresentationButton a{
+    text-decoration: none;
+    color: white;
+}
+.apresentationButton2{
+    font-size: 22px;
+    background: #E1E7FC;
+    color: #6A5EEA;
+    font-weight: 500;
+    text-decoration: none;
+    text-decoration: none;
+}
+.apresentationButton2:hover{
+    color: #6A5EEA;
+    text-decoration: none;
+}
+.apresentationButton2 a{
+    text-decoration: none;
+    color: #6A5EEA;
+}
+
+
+
+/* ESTILOS DIV ADVANTAGE */
+
+.advantageTitle{
+    font-size: 48px;
+}
+.advantageSubtitle{
+    font-size: 24px;
+}
+.activeDatabase{
+    color: #6A5EEA;
+}
+.imageDatabase{
+    width: 70%;
+}
+
+
+/* ESTILOS DIV SUPORTE */
+
+.suportTitle{
+    font-size: 58px;
+}
+.suportSubtitle{
+    font-size: 32px;
+}
+.suportEmail{
+    font-size: 22px;
+    display: block;
+
+}
+.suportSatisfation{
+    font-size: 22px;
+    margin-top: 15px;
+}
+.suportApoio{
+    font-size: 22px;   
+}
+.suportButton{
+    margin-top: 15px;
+    display: block;
+    font-size: 22px;
+    text-decoration: none;
+    background: #1746E0;
+}
+.suportButton a{
+    text-decoration: none;
+    color: white;
+}
+
+/* PÁGINA TEAM */
+
+/* ESTILOS DIV TEAM */
+.teamConheca{
+    font-size: 28px;
+    margin-bottom: 32px;
+}
+.teamName{
+    font-size: 42px;
+}
+.teamFunction{
+    font-size: 32px;
+}
+.teamDescription{
+    font-size: 22px;
+}
+.teambuttonInstagram{
+    background: #BF2F9A;
+    color: white;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+}
+.teambuttonInstagram:hover{
+    background: #BF2F9A;
+    color: white;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+}
+
+.teambuttonGithub{
+    background: #000000;
+    color: white;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+
+}
+.teambuttonGithub:hover{
+    background: #2c2c2c;
+    color: white;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+}
+
+.teambuttonLinkedin{
+    background: #0042bd !important;
+    color: white !important;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+}
+
+.teambuttonLinkedin:hover{
+    background: #007BFF !important;
+    color: white !important;
+    font-weight: 500;
+    width: 20%;
+    height: 40px;
+}
+
+
+
+
+/* FOOTER UNIVERSAL */
+/* ESTILOS DIV FOOTER */
+footer{
+    padding-bottom: 50px;
+    background: #F1F4F8;
+}
+footer a{
+    text-decoration: none !important;
+    color: black;
+}

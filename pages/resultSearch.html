@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel= "stylesheet" type= "text/css" href="{{ url_for('static',filename='styles/dashboard.css') }}">
+
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link rel="shortcut icon" href="../static/images/icone.png">
+    <title>PROGRAMOID</title>
+    <style>
+        .chart-container {
+          position: relative;
+          margin: -10px auto;
+          width: 75vw;
+        }
+    </style>
+
+    <!-- TITULO DA PÁGINA -->
+    <link rel="shortcut icon" href="../images/icone.png">
+    <title>Programoid - Análise do Eleitorado</title>
+</head>
+<body>
+
+
+  <section class="content">
+  <div class="sidebar">
+
+      <a href="../pages/dashboard.html"><img src="../static/images/search.png" class="activea" alt=""></a><br>
+      <a href="../pages/dowload.html"><img src="../static/images/dowload.png" class="activea" alt=""></a><br>
+      <a href="../pages/index.html"><img src="../static/images/home.png" class="activea" alt=""></a><br>
+      <a href="../pages/documentation.html"><img src="../static/images/engrenagem.png" class="activea" alt=""></a>
+  </div>
+
+  <div class="navbar">
+
+    <form method="get" action="{{url_for('resultSearch')}}">
+        <select name="cidade">
+           <option value="">SELECIONE A CIDADE</option>
+                <option value="APARECIDA">Aparecida</option>
+                <option value="ARAPEÍ">Arapeí</option>
+                <option value="AREIAS">Areias</option>
+                <option value="ATIBAIA">Atibaia</option>
+                <option value="BRAGANÇA PAULISTA">Bragança Paulista</option>
+                <option value="CAÇAPAVA">Caçapava</option>
+                <option value="CACHOEIRA PAULISTA">Cachoeira Paulista</option>
+                <option value="CAMPOS DO JORDÃO">Campos do Jordão</option>
+                <option value="CARAGUATATUBA">Caraguatatuba</option>
+                <option value="CRUZEIRO">Cruzeiro</option>
+                <option value="CUNHA">Cunha</option>
+                <option value="GUARATINGUETÁ">Guaratinguetá</option>
+                <option value="IGARATÁ">Igaratá</option>
+                <option value="ILHABELA">Ilhabela</option>
+                <option value="JOANÓPOLIS">Joanópolis</option>
+                <option value="LORENA">Lorena</option>
+                <option value="NATIVIDADE DA SERRA">Natividade da Serra</option>
+                <option value="PARAIBUNA">Paraibuna</option>
+                <option value="PINDAMONHANGABA">Pindamonhangaba</option>
+                <option value="PIQUETE">Piquete</option>
+                <option value="PIRACAIA">Piracaia</option>
+                <option value="POTIM">Potim</option>
+                <option value="QUELUZ">Queluz</option>
+                <option value="ROSEIRA">Roseira</option>
+                <option value="SANTA BRANCA">Santa Branca</option>
+                <option value="SANTO ANTÔNIO DO PINHAL">Santo Antônio do Pinhal</option>
+                <option value="SÃO JOSÉ DOS CAMPOS">São José dos Campos</option>
+                <option value="SÃO SEBASTIÃO">São Sebastião</option>
+                <option value="SILVEIRAS">Silveiras</option>
+                <option value="TAUBATÉ">Taubaté</option>
+                <option value="TREMEMBÉ">Tremembé</option>
+                <option value="UBATUBA">Ubatuba</option>
+        </select>
+
+         <select name="genero">
+             <option value="">SELECIONE O GÊNERO</option>
+             <option value="MASCULINO">MASCULINO</option>
+             <option value="FEMININO">FEMININO</option>
+             <option value="NÃO INFORMADO">NÃO INFORMADO</option>
+        </select>
+
+        <select name="estadoCivil">
+             <option value="">SELECIONE O ESTADO CIVIL</option>
+             <option value="CASADO">CASADO</option>
+             <option value="NÃO INFORMADO">NÃO INFORMADO</option>
+             <option value="SEPARADO JUDICIALMENTE">SEPARADO JUDICIALMENTE</option>
+             <option value="SOLTEIRO">SOLTEIRO</option>
+             <option value="VIÚVO">VIÚVO</option>
+        </select>
+
+        <select name="filtro" required>
+          <option value="">SELECIONE O FILTRO</option>
+          <option value="DS_GÊNERO">Gênero</option>
+          <option value="DS_GRAU_ESCOLARIDADE">Escolaridade</option>
+            <option value="5MAIORES">5 MAIORES CIDADES</option>
+            <option value="POPIDOSO">ELEITORES ACIMA DOS 60</option>
+            <option value="IDADES">IDADES</option>
+        </select>
+
+        <select name="ano">
+          <option value="">SELECIONE O ANO</option>
+          <option value="2020">2020</option>
+          <option value="2018">2018</option>
+        </select>
+
+        <select name="grafico" class="custom-select my-1 mr-sm-2">
+          <option value="bar">TIPO DO GRÁFICO</option>
+          <option value="bar">BARRA</option>
+          <option value="line">LINHA</option>
+        </select>
+
+        <button class="buttonSearch" type="submit">Buscar Dados</button>
+      </form>
+
+
+       <div class="titulo">
+          <div class="card" style="width: 18rem;">
+              <div class="card-body">
+                <h5 class="card-title">Total de Eleitores</h5>
+                <span class="card-number">{{result['totalPessoas']}}</span>
+              </div>
+          </div>
+      </div>
+
+
+
+  </div>
+
+      {% if result %}
+      <div>
+          {{result[eixoY]|safe}}
+      </div>
+      {% endif %}
+
+
+  <div class="graphic">
+      <span style="font-size:12px;text-align:center; margin-top: 5px;">* Caso nenhum ano seja selecionado, por padrão utilizaremos o ano mais recente</span>
+      <div class="chart-container">
+        <canvas class="line-chart"></canvas>
+      </div>
+      {% if result['qtdGenNaoInfo'] %}
+      <span style="text-align:center;font-size: 20px; color: red;margin-top:-10px;">Quantidade de eleitores que não informaram: {{ result['qtdGenNaoInfo']}}</span>
+      {% endif %}
+    </div>
+  </section>
+
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"></script>
+
+  <script>
+
+    var ctx = document.getElementsByClassName("line-chart");
+
+    // TYpe, Data e options
+
+    var chartGraph = new Chart(ctx,{
+      type: '{% if result %}{{ result['tipoGrafico']|safe}}{% endif %}',
+      data: {
+        labels: {% if result %}{{ result['eixoX']|safe}}{% endif %},
+        datasets: [{
+          label: "Quantidade de Eleitores",
+          data: {% if result %}{{ result['eixoY']|safe}}{% endif %},
+          borderWidth: 6,
+          borderColor: [
+            'rgba(255, 99, 132, 0.2)',
+            'rgba(54, 162, 235, 0.2)',
+            'rgba(255, 206, 86, 0.2)',
+            'rgba(75, 192, 192, 0.2)',
+            'rgba(153, 102, 255, 0.2)',
+            'rgba(255, 159, 64, 0.2)',
+            'rgba(255, 82, 71 , 0.2)',
+            'rgba(33, 93, 104, 0.2)',
+            'rgba(249, 203, 199, 0.2)'
+          ],
+          backgroundColor: [
+            'rgb(255, 99, 132)',
+            'rgb(54, 162, 235)',
+            'rgb(255, 206, 86)',
+            'rgb(75, 192, 192)',
+            'rgb(153, 102, 255)',
+            'rgb(255, 159, 64)',
+            'rgb(255, 82, 71)',
+            'rgb(33, 93, 104)',
+            'rgb(249, 203, 199)'
+          ],
+        }]
+      },
+      options: {
+        plugins: {
+            title: {
+                display: true,
+                text: "{% if result %}{{ result['tituloGraph']|safe}}{% endif %}",
+                padding: {
+                    top: 10,
+                    bottom: 30
+                },
+                font: {
+                    weight: 'bold',
+                    size: 18
+                }
+            },
+        },
+        layout: {
+            padding: 20,
+        }
+      }
+    });
+
+  </script>
+
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+</body>
+</html>
