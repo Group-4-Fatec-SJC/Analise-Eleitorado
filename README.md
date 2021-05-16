@@ -28,13 +28,26 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
 
+<br>
+
+
+<h1>&#11088;Interatividade das Páginas</h1>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INTERATIVIDADE.gif"/></h1>
+
+
+<h1>&#11088;Diferentes anos de eleições</h1>
+
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEI%C3%87%C3%95ES.gif
+"/></h1>
+
+
 
 <h1>&#128200;Burndown</h1>
 
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT3.PNG"/></h1>
 
 <br>
-
 
 
 
