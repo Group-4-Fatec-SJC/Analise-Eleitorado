@@ -38,8 +38,7 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h1>&#11088;Diferentes anos de eleições</h1>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEI%C3%87%C3%95ES.gif
-"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEICOES.gif"/></h1>
 
 
 
