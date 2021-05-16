@@ -43,8 +43,8 @@ justify-content: center;
 }
 
 .navbar form select{
-    width: 260px;
-    height: 30px;
+    width: 240px;
+    height: 30px;W
     background-color: #f2f2f2;
     padding: 3px;
     border: 1px solid #ccc;
@@ -52,7 +52,7 @@ justify-content: center;
     border-radius: 3px;
 }
 .buttonSearch{
-    width: 200px;
+    width: 180px;
     height: 30px;
     background-color: #1746E0;
     border: 1px solid #1746E0;
@@ -68,7 +68,7 @@ justify-content: center;
 .titulo{
     height: 110px;
     padding-top:10px;
-    margin-top: 10px;
+    margin-top: 4px;
     text-align: center;
     align-content: center;
     display: grid;
@@ -99,6 +99,8 @@ justify-content: center;
     grid-row-start: 2;
     grid-row-end: 2;
     display: grid;
+    height: 100vh important;
+
 }
 .graphic h1{
     display: grid;
@@ -106,6 +108,11 @@ justify-content: center;
     align-content: center;
 }
 
-.line-chart{
-  height: 50%;
-}
+
+
+
+
+
+
+
+
