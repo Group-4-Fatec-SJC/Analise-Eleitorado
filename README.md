@@ -2,13 +2,13 @@
 
 Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplicação do seguinte card:
 
-<h1 align="center"> <img src = "https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/SPRINT%203.png" /></h1>
+<h2 align="center"> <img src = "https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/SPRINT%203.png" /></h2>
 
 
 <br>
 
 
-<h1>&#128071; Passos para iniciar a aplicação</h1>
+<h2>&#128071; Passos para iniciar a aplicação</h2>
 
 >Baixe a aplicação atraves do github
 
@@ -31,20 +31,20 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 <br>
 
 
-<h1>&#11088;Interatividade das Páginas</h1>
+<h2>&#11088;Interatividade das Páginas</h2>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INTERATIVIDADE.gif"/></h1>
-
-
-<h1>&#11088;Diferentes anos de eleições</h1>
-
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEICOES.gif"/></h1>
+<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INTERATIVIDADE.gif"/></h2>
 
 
+<h2>&#127760;Diversos Anos de Eleições</h2>
 
-<h1>&#128200;Burndown</h1>
+<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEICOES.gif"/></h2>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT3.PNG"/></h1>
+
+
+<h2>&#128200;Burndown</h2>
+
+<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT3.PNG"/></h2>
 
 <br>
 
