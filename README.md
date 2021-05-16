@@ -16,7 +16,7 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h1>&#128200;Burndown</h1>
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT2.PNG"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT3.PNG"/></h1>
 
 <br>
 
