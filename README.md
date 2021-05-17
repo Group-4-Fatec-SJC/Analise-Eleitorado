@@ -26,7 +26,9 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 >Abra o link fornecido pelo terminal e a aplicação estará pronta para uso.
 
-<br>
+<h4>Instalar todas as dependencias</h4>
+<h6>pip install -r requirements.txt</h6>
+
 
 
 <h2>&#11088;Interatividade das Páginas</h2>
