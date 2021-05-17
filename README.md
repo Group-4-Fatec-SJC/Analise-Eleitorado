@@ -8,10 +8,10 @@
 <hr>
 
 <p align="center">
-  <a href ="#rocket-O-Projeto"> O Projeto </a>  • 
-  <a href ="#dart-Proposta"> Proposta </a>  • 
+  <a href ="#rocket-o-projeto"> O Projeto </a>  • 
+  <a href ="#dart-proposta"> Proposta </a>  • 
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#calendar-As-Sprints"> Sprints </a>  • 
+  <a href ="#calendar_A Sprints"> Sprints </a> • 
   <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
   <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
@@ -71,9 +71,9 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/1-Sprint): Concluído :heavy_check_mark:
 
-SPRINT 2 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/2-Sprint): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/2-Sprint): Concluído :heavy_check_mark:
 
-SPRINT 3 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint): Em Andamento 
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint): Concluído :heavy_check_mark: 
 
 SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint): Em Andamento 
 
@@ -86,11 +86,11 @@ SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorad
 
 ## :computer: Tecnologias Utilizadas
 
-<h1 align="center"> <img src = "assets/Tecnologias%20Utilizadas.png"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas_OFICIAL.png"/></h1>
 
-* **Back-end:** JavaScript e Python
+* **Back-end:** JavaScript, Python e Flask
 * **Front-end:** HTML, CSS e Bootstrap
-* **Ferramentas:** Visual Studio Code e Figma
+* **Ferramentas:** Visual Studio Code, Figma e Pycharm
 
 <br>
 
@@ -103,7 +103,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorad
 
 ## &#128195; Backlog da Sprint
 
-<h1 align="center"> <img src = "assets/BACKLOG DO PRODUTO.png" /></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BACKLOG_SPRINT.png" /></h1>
 
 <br>
 
@@ -117,7 +117,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorad
 |**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
 |**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)||
 |**Lucas Midoes**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/LykeMidrod)|
-|**Fábio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/mwlite/in/f%C3%A1bio-moraes-96873014b)|[@GitHub](https://github.com/FabioMoraesDev)|
+
    
 
 <br>
