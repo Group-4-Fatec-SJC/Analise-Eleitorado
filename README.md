@@ -16,20 +16,17 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 >Abra a aplicação no pycharm
 
->Execute o comando pip install flask (Obs: É preciso ter o python instalado)
-
 >Abra a aplicação no pycharm
 
 >Coloque a base de dados dentro da pasta raiz do projeto
+
+>Execute no terminal o comando pip install -r requirements.txt
 
 >Execute no terminal do pycharm o comando app.py
 
 >Abra o link fornecido pelo terminal e a aplicação estará pronta para uso.
 
-<h4>Instalar todas as dependencias</h4>
-<h6>pip install -r requirements.txt</h6>
-
-
+<br>
 
 <h2>&#11088;Interatividade das Páginas</h2>
 
