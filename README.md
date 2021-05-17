@@ -11,7 +11,7 @@
   <a href ="#rocket-o-projeto"> O Projeto </a>  • 
   <a href ="#dart-proposta"> Proposta </a>  • 
   <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#calendar_A Sprints"> Sprints </a> • 
+  <a href ="#calendar-as-sprints"> Sprints </a> • 
   <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
   <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
   <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
