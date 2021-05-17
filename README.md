@@ -2,7 +2,7 @@
 
 Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplicação do seguinte card:
 
-<h2 align="center"> <img src = "https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/SPRINT%203.png" /></h2>
+<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/SPRINT%203.png" /></h2>
 
 
 <br>
