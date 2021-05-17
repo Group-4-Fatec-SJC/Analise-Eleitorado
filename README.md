@@ -36,7 +36,7 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 <h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/INTERATIVIDADE.gif"/></h2>
 
 
-<h2>&#127760;Diversos Anos de Eleições</h2>
+<h2>&#127760;Diversos Anos das Eleições</h2>
 
 <h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/ELEICOES.gif"/></h2>
 
