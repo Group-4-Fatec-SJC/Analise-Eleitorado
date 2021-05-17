@@ -26,8 +26,6 @@ Na terceira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 >Abra o link fornecido pelo terminal e a aplicação estará pronta para uso.
 
-<img src ="https://github.com/PROGRAMOID/Analise-Eleitorado/blob/main/assets/GIF%20SPRINT3.gif"/>
-
 <br>
 
 
