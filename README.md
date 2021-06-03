@@ -54,9 +54,9 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 - [x] [SPRINT 2](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/2-Sprint) - 29/03/2021 a 18/04/2021
 
-- [x] [SPRINT 3](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint) - 17/05/2021 a 05/06/2021
+- [x] [SPRINT 3](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint) - 26/04/2021 a 16/05/2021
 
-- [x] [SPRINT 4](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint) - 07/06/2021 a 11/06/2021
+- [x] [SPRINT 4](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint) - 17/05/2021 a 05/06/2021
 
 - [x] Apresentação Final - 07/06/2021 a 11/06/2021
 
