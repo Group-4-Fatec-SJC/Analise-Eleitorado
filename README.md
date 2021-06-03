@@ -75,7 +75,7 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ☑️ SPRINT 3 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/3-Sprint): Concluído :heavy_check_mark: 
 
-SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint): Em Andamento 
+☑️ SPRINT 4 ([Link da Pasta](https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/tree/4-Sprint): Concluído :heavy_check_mark: 
 
 <br>
 
