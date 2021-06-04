@@ -113,7 +113,7 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 | -------- |-------- |-------- |-------- |
 |**Gustavo Leandro dos Santos**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/gustavo-santos-a0657219b/)|[@GitHub](https://github.com/gustavols)|
 |**Bruno Pisciotta**|Desenvolvedor Front-End| [@LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198)|[@GitHub](https://github.com/bruno-pisciotta281)|
-|**Daniel Luciano dos Santos Filho**|Desenvolvedor  Front-End| [@LinkedIn](https://github.com/gustavols)|[@GitHub](https://github.com/daniellsfilho)|
+|**Daniel Luciano dos Santos Filho**|Desenvolvedor  Front-End| [@LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/)|[@GitHub](https://github.com/daniellsfilho)|
 |**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
 |**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)||
 |**Lucas Midoes**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/LykeMidrod)|
