@@ -27,7 +27,9 @@ Na quarta entrega, decidimos juntamente com a necessidade do cliente, a aplicaç
 
 <h2>&#128216;Aprenda a Ultilizar</h2>
 
-<h2 align="center">VÍDEO EXPLICATIVO DA ULTILIZAÇÃO</h2>
+ Obtenha a Versão Completa [ Clicando Aqui](https://www.dropbox.com/s/elcp0dcukal0pc7/PROGRAMOID.rar?dl=0)
+ 
+ Aprenda a Ultilizar [ Clicando Aqui](https://youtu.be/V3caIKOBf3s)
 
 <br>
 
