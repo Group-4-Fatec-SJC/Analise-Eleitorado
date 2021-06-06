@@ -50,7 +50,7 @@ Na quarta entrega, decidimos juntamente com a necessidade do cliente, a aplicaç
 
 <h2>&#128200;Burndown</h2>
 
-<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN_SPRINT3.PNG"/></h2>
+<h2 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/BURNDOWN4.PNG"/></h2>
 
 <br>
 
