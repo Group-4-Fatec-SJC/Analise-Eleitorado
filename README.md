@@ -106,7 +106,7 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 
 ## :bar_chart: Backlog do Produto
-<h4 align="center"> Nossa Backlog do Produto tem como base as prioridades. </h4>
+<h4 align="center"> Nosso Backlog do Produto tem como base as prioridades. </h4>
 <br>
 <h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/PRODUCT_BACKLOG.png" /></h1>
 
