@@ -86,11 +86,11 @@ Trabalho desenvolvido pelos integrantes do grupo 4 do curso de Desenvolvimento d
 
 ## :computer: Tecnologias Utilizadas
 
-<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/Tecnologias%20Utilizadas_OFICIAL.png"/></h1>
+<h1 align="center"> <img src = "https://github.com/Group-4-Fatec-SJC/Analise-Eleitorado/blob/main/assets/tecnologias.jpeg"/></h1>
 
 * **Back-end:** JavaScript, Python e Flask
 * **Front-end:** HTML, CSS e Bootstrap
-* **Ferramentas:** Visual Studio Code, Figma e Pycharm
+* **Ferramentas:** Visual Studio Code, Figma, Pycharm e Git
 
 <br>
 
